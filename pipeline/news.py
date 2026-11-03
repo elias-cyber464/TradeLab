@@ -133,16 +133,34 @@ def score_rules(entry: dict, player: dict, idx_by_id, others: list[dict]) -> dic
 
 # ---------------------------------------------------------------- GitHub Models (free)
 GH_MODELS_URL = "https://models.github.ai/inference/chat/completions"
-GH_MODEL = os.environ.get("TRADELAB_MODEL", "openai/gpt-4.1-mini")
+GH_MODELS = [m for m in [os.environ.get("TRADELAB_MODEL"), "openai/gpt-4.1-mini", "openai/gpt-4o-mini"] if m]
+_ai_dead = False
 
 
-def score_ai(batch: list[tuple[dict, list[dict]]], universe_names: str) -> dict | None:
+def _parse_json(txt: str):
+    """Accept plain JSON, ```json fenced JSON, or JSON buried in prose."""
+    if not txt:
+        raise ValueError("empty reply")
+    t = txt.strip()
+    t = re.sub(r"^```(?:json)?\s*|\s*```$", "", t)
+    try:
+        return json.loads(t)
+    except Exception:  # noqa: BLE001
+        m = re.search(r"\{.*\}", t, re.S)
+        if m:
+            return json.loads(m.group(0))
+        raise
+
+
+def score_ai(batch: list[tuple[dict, list[dict]]], roster: list[dict]) -> dict | None:
+    """roster = players named in these stories plus their teammates."""
+    global _ai_dead
     token = os.environ.get("GITHUB_TOKEN")
-    if not token or os.environ.get("TRADELAB_AI", "on") == "off":
+    if _ai_dead or not token or os.environ.get("TRADELAB_AI", "on") == "off":
         return None
-    stories = []
-    for i, (e, ps) in enumerate(batch):
-        stories.append(f"[{i}] {e['title']} — {e['summary'][:500]} (players named: {', '.join(p['name'] for p in ps)})")
+    stories = [f"[{i}] {e['title']} | {e['summary'][:400]} (named: {', '.join(p['name'] for p in ps)})"
+               for i, (e, ps) in enumerate(batch)]
+    names = "; ".join(f"{p['name']} ({p['pos']}, {p['team']})" for p in roster)
     prompt = (
         "You are a fantasy football analyst scoring news for rest-of-season REDRAFT value (PPR).\n"
         "For each story, list every affected player from the PLAYER LIST, including indirect effects "
@@ -151,23 +169,41 @@ def score_ai(batch: list[tuple[dict, list[dict]]], universe_names: str) -> dict 
         "Do NOT put missed games into pct; use status/weeksOut for injuries.\n"
         "status = H, Q, OUT, IR or null. weeksOut = games missed starting this week (99 = season) or null.\n"
         "Skip stories with no real fantasy effect. Use exact names from the list.\n"
-        'Return JSON only: {"items":[{"story":0,"player":"","pct":0,"status":null,"weeksOut":null,"note":"short reason"}]}\n\n'
-        f"PLAYER LIST: {universe_names}\n\nSTORIES:\n" + "\n".join(stories)
+        'Reply with JSON only, no other text: {"items":[{"story":0,"player":"","pct":0,"status":null,"weeksOut":null,"note":"short reason"}]}\n\n'
+        f"PLAYER LIST: {names}\n\nSTORIES:\n" + "\n".join(stories)
     )
-    try:
-        r = requests.post(
-            GH_MODELS_URL,
-            headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
-            json={"model": GH_MODEL, "messages": [{"role": "user", "content": prompt}],
-                  "temperature": 0.1, "response_format": {"type": "json_object"}},
-            timeout=60,
-        )
-        r.raise_for_status()
-        txt = r.json()["choices"][0]["message"]["content"]
-        return json.loads(txt)
-    except Exception as e:  # noqa: BLE001
-        print(f"  ! AI scoring unavailable ({str(e)[:120]}); using rules")
-        return None
+    last = ""
+    for model in GH_MODELS:
+        try:
+            r = requests.post(
+                GH_MODELS_URL,
+                headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json",
+                         "Accept": "application/json"},
+                json={"model": model, "messages": [{"role": "user", "content": prompt}], "temperature": 0.1},
+                timeout=60,
+            )
+            body = r.text
+            if r.status_code in (401, 403):
+                last = f"{model}: HTTP {r.status_code} {body[:200]}"
+                _ai_dead = True  # permissions problem, no point retrying this run
+                break
+            if r.status_code == 429:
+                last = f"{model}: rate limited"
+                _ai_dead = True
+                break
+            if r.status_code >= 400:
+                last = f"{model}: HTTP {r.status_code} {body[:200]}"
+                continue
+            data = r.json()
+            content = data["choices"][0]["message"]["content"]
+            out = _parse_json(content)
+            print(f"  AI scoring ok via {model}")
+            return out
+        except Exception as e:  # noqa: BLE001
+            last = f"{model}: {str(e)[:120]} | reply starts: {(locals().get('body') or '')[:200]!r}"
+            continue
+    print(f"  ! AI scoring unavailable ({last}); using rules")
+    return None
 
 
 # ---------------------------------------------------------------- main entry
@@ -192,10 +228,17 @@ def update_news(players: list[dict], feeds: list[dict], history: list[dict], now
     new_items = []
     # AI pass in batches of 15 stories
     ai_used = 0
-    names = "; ".join(f"{p['name']} ({p['pos']}, {p['team']})" for p in players)
-    for i in range(0, len(fresh), 15):
-        chunk = fresh[i:i + 15]
-        res = score_ai([(e, ps) for _, e, ps in chunk], names)
+    by_team = {}
+    for p in players:
+        by_team.setdefault(p["team"], []).append(p)
+    for i in range(0, len(fresh), 10):
+        chunk = fresh[i:i + 10]
+        named = {p["id"]: p for _, _, ps in chunk for p in ps}
+        roster = {**named}
+        for p in list(named.values()):
+            for t in sorted(by_team.get(p["team"], []), key=lambda x: -max(x["trade"].values() or [0]))[:12]:
+                roster[t["id"]] = t
+        res = score_ai([(e, ps) for _, e, ps in chunk], list(roster.values()))
         handled = set()
         if res and isinstance(res.get("items"), list):
             ai_used += 1
