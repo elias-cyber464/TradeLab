@@ -12,7 +12,6 @@ permissions:
   contents: write      # save news history back to the repo
   pages: write         # publish the site
   id-token: write
-  models: read         # free AI news scoring via GitHub Models
 
 concurrency:
   group: tradelab
@@ -41,7 +40,7 @@ jobs:
       - name: Build data
         run: python -m pipeline.build
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}   # optional: free AI news scoring
 
       - name: Save news history
         run: |
