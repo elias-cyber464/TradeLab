@@ -1,5 +1,33 @@
 [
  {
+  "id": "e69014680e99:13269",
+  "pid": "13269",
+  "name": "Fernando Mendoza",
+  "date": "2026-11-03T18:32:56+00:00",
+  "headline": "Mark Davis: \"Absolutely no pressure whatsoever\" from me to start Fernando Mendoza",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-davis-absolutely-no-pressure-whatsoever-from-me-to-start-fernando-mendoza",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Coach signals confidence to start him, slight boost",
+  "method": "ai"
+ },
+ {
+  "id": "8ca52007f936:8167",
+  "pid": "8167",
+  "name": "Christian Watson",
+  "date": "2026-11-03T18:22:53+00:00",
+  "headline": "Week 9 fantasy wide receiver rankings: Top WR streamers, starts",
+  "link": "https://sports.yahoo.com/articles/week-9-fantasy-wide-receiver-182253570.html",
+  "source": "Yahoo Sports",
+  "pct": 8,
+  "status": null,
+  "weeksOut": null,
+  "note": "Returned from broken rib, back to full health",
+  "method": "ai"
+ },
+ {
   "id": "48c97174439b:8228",
   "pid": "8228",
   "name": "Jaylen Warren",
@@ -154,6 +182,20 @@
   "method": "ai"
  },
  {
+  "id": "a7207f40edc3:7547",
+  "pid": "7547",
+  "name": "Amon-Ra St. Brown",
+  "date": "2026-11-03T16:47:00+00:00",
+  "headline": "Dan Campbell credits Mike Kafka for big play to Amon-Ra St. Brown",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-credits-mike-kafka-for-big-play-to-amon-ra-st-brown",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Highlighted in big play, modest value increase",
+  "method": "ai"
+ },
+ {
   "id": "bee9f8f3f6c7:6770",
   "pid": "6770",
   "name": "Joe Burrow",
@@ -179,6 +221,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Emerging as top\u2011tier QB boosts value",
+  "method": "ai"
+ },
+ {
+  "id": "a9bcd551bb74:11560",
+  "pid": "11560",
+  "name": "Caleb Williams",
+  "date": "2026-11-03T16:04:34+00:00",
+  "headline": "Caleb Williams has arrived as a top-tier quarterback",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-has-arrived-as-a-top-tier-quarterback",
+  "source": "ProFootballTalk",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Recognized as top\u2011tier QB, raises his fantasy outlook",
   "method": "ai"
  },
  {
@@ -235,6 +291,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Push for more targets raises WR upside",
+  "method": "ai"
+ },
+ {
+  "id": "9d090d7805a9:8137",
+  "pid": "8137",
+  "name": "George Pickens",
+  "date": "2026-11-03T15:35:21+00:00",
+  "headline": "Jerry Jones wants to see more targets for George Pickens",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-wants-to-see-more-targets-for-george-pickens",
+  "source": "ProFootballTalk",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Owner wants more targets, boosting his upside",
   "method": "ai"
  },
  {
@@ -588,6 +658,20 @@
   "method": "ai"
  },
  {
+  "id": "df2c198efc75:9230",
+  "pid": "9230",
+  "name": "Tanner McKee",
+  "date": "2026-11-03T02:04:56+00:00",
+  "headline": "Nick Sirianni: Eagles will stick with Tanner McKee, Sean Mannion despite offensive woes",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-eagles-will-stick-with-tanner-mckee-sean-mannion-despite-offensive-woes",
+  "source": "ProFootballTalk",
+  "pct": 0,
+  "status": null,
+  "weeksOut": null,
+  "note": "Retains starting QB role despite offensive struggles",
+  "method": "ai"
+ },
+ {
   "id": "ad7d750a35a9:13286",
   "pid": "13286",
   "name": "Jadarian Price",
@@ -770,6 +854,48 @@
   "method": "ai"
  },
  {
+  "id": "71dde90158b6:5870",
+  "pid": "5870",
+  "name": "Daniel Jones",
+  "date": "2026-11-02T19:44:25+00:00",
+  "headline": "Shane Steichen: Daniel Jones remains Colts' starter, gives us the best chance to win",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-daniel-jones-remains-colts-starter-gives-us-the-best-chance-to-win",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Confirmed as starter, slight value bump",
+  "method": "ai"
+ },
+ {
+  "id": "71dde90158b6:1479",
+  "pid": "1479",
+  "name": "Keenan Allen",
+  "date": "2026-11-02T19:44:25+00:00",
+  "headline": "Shane Steichen: Daniel Jones remains Colts' starter, gives us the best chance to win",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-daniel-jones-remains-colts-starter-gives-us-the-best-chance-to-win",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Quarterback stability benefits his target share",
+  "method": "ai"
+ },
+ {
+  "id": "71dde90158b6:9500",
+  "pid": "9500",
+  "name": "Josh Downs",
+  "date": "2026-11-02T19:44:25+00:00",
+  "headline": "Shane Steichen: Daniel Jones remains Colts' starter, gives us the best chance to win",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-daniel-jones-remains-colts-starter-gives-us-the-best-chance-to-win",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Quarterback stability benefits his target share",
+  "method": "ai"
+ },
+ {
   "id": "716d353910da:8155",
   "pid": "8155",
   "name": "Breece Hall",
@@ -908,6 +1034,20 @@
   "weeksOut": null,
   "note": "Bigger role",
   "method": "rules"
+ },
+ {
+  "id": "8cd2f3acbb14:4943",
+  "pid": "4943",
+  "name": "Sam Darnold",
+  "date": "2026-11-02T09:25:00+00:00",
+  "headline": "Sam Darnold: Middling numbers in Week 8 loss",
+  "link": "https://www.rotowire.com//football/player/sam-darnold-12490",
+  "source": "RotoWire",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Middling performance lowers his projected value",
+  "method": "ai"
  },
  {
   "id": "c0db19cf9fdd:9753",
