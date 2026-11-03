@@ -1,8 +1,0 @@
-[
-  {"name": "RotoWire", "url": "https://www.rotowire.com/rss/news.php?sport=NFL"},
-  {"name": "ESPN", "url": "https://www.espn.com/espn/rss/nfl/news"},
-  {"name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/nfl/"},
-  {"name": "Yahoo Sports", "url": "https://sports.yahoo.com/nfl/rss/"},
-  {"name": "ProFootballTalk", "url": "https://www.nbcsports.com/profootballtalk.atom"},
-  {"name": "NFL Trade Rumors", "url": "https://nfltraderumors.co/feed/"}
-]
