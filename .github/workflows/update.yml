@@ -1,0 +1,66 @@
+name: Update data and deploy
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"     # every 3 hours (UTC)
+  workflow_dispatch:            # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths-ignore: ["data/news_history.json"]
+
+permissions:
+  contents: write      # save news history back to the repo
+  pages: write         # publish the site
+  id-token: write
+  models: read         # free AI news scoring via GitHub Models
+
+concurrency:
+  group: tradelab
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Restore Sleeper player cache (refreshed at most once a day)
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: tradelab-cache-${{ github.run_id }}
+          restore-keys: tradelab-cache-
+
+      - name: Build data
+        run: python -m pipeline.build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save news history
+        run: |
+          git config user.name "tradelab-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news_history.json
+          git diff --cached --quiet || (git commit -m "News update $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
