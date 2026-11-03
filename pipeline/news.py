@@ -2,8 +2,9 @@
 how much it moves their rest-of-season value.
 
 Two scorers:
-  * AI (free): GitHub Models, using the workflow's built-in GITHUB_TOKEN.
-    It understands indirect effects (a starter's injury helps the backup).
+  * AI (free): any OpenAI-compatible API. Default is Groq's free tier
+    (set the GROQ_API_KEY repository secret). It understands indirect effects
+    (a starter's injury helps the backup).
   * Rules (always available): keyword patterns. Used if the AI is off or fails.
 
 Old news fades: effect halves every 7 days (the market catches up), and
@@ -132,8 +133,9 @@ def score_rules(entry: dict, player: dict, idx_by_id, others: list[dict]) -> dic
 
 
 # ---------------------------------------------------------------- GitHub Models (free)
-GH_MODELS_URL = "https://models.github.ai/inference/chat/completions"
-GH_MODELS = [m for m in [os.environ.get("TRADELAB_MODEL"), "openai/gpt-4.1-mini", "openai/gpt-4o-mini"] if m]
+AI_URL = os.environ.get("AI_BASE_URL", "https://api.groq.com/openai/v1").rstrip("/") + "/chat/completions"
+AI_MODELS = [m for m in [os.environ.get("AI_MODEL"), "openai/gpt-oss-120b", "llama-3.3-70b-versatile"] if m]
+AI_NAME = os.environ.get("AI_NAME", "Groq")
 _ai_dead = False
 
 
@@ -155,7 +157,7 @@ def _parse_json(txt: str):
 def score_ai(batch: list[tuple[dict, list[dict]]], roster: list[dict]) -> dict | None:
     """roster = players named in these stories plus their teammates."""
     global _ai_dead
-    token = os.environ.get("GITHUB_TOKEN")
+    token = os.environ.get("AI_API_KEY") or os.environ.get("GROQ_API_KEY")
     if _ai_dead or not token or os.environ.get("TRADELAB_AI", "on") == "off":
         return None
     stories = [f"[{i}] {e['title']} | {e['summary'][:400]} (named: {', '.join(p['name'] for p in ps)})"
@@ -173,10 +175,10 @@ def score_ai(batch: list[tuple[dict, list[dict]]], roster: list[dict]) -> dict |
         f"PLAYER LIST: {names}\n\nSTORIES:\n" + "\n".join(stories)
     )
     last = ""
-    for model in GH_MODELS:
+    for model in AI_MODELS:
         try:
             r = requests.post(
-                GH_MODELS_URL,
+                AI_URL,
                 headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json",
                          "Accept": "application/json"},
                 json={"model": model, "messages": [{"role": "user", "content": prompt}], "temperature": 0.1},
@@ -261,7 +263,14 @@ def update_news(players: list[dict], feeds: list[dict], history: list[dict], now
                 if s:
                     new_items.append(_item(key, e, p, s["pct"], s["status"], s["weeksOut"], s["note"], "rules"))
 
-    status["news_scoring"] = f"AI (GitHub Models) on {ai_used} batch(es)" if ai_used else "keyword rules"
+    if ai_used:
+        status["news_scoring"] = f"AI ({AI_NAME}) on {ai_used} batch(es)"
+    elif not (os.environ.get("AI_API_KEY") or os.environ.get("GROQ_API_KEY")):
+        status["news_scoring"] = "keyword rules (add a GROQ_API_KEY secret for AI scoring)"
+    elif not fresh:
+        status["news_scoring"] = "no new stories this run"
+    else:
+        status["news_scoring"] = "keyword rules (AI request failed, see build log)"
     hist = [h for h in history + new_items if now - datetime.fromisoformat(h["date"]) <= timedelta(days=KEEP_DAYS)]
     # dedupe
     uniq = {}
