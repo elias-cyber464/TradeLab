@@ -64,6 +64,58 @@ def _clauses(text: str) -> list[str]:
     return out
 
 
+TEAM_WORDS = {
+    "cardinals": "ARI", "arizona": "ARI", "falcons": "ATL", "atlanta": "ATL", "ravens": "BAL", "baltimore": "BAL",
+    "bills": "BUF", "buffalo": "BUF", "panthers": "CAR", "carolina": "CAR", "bears": "CHI", "chicago": "CHI",
+    "bengals": "CIN", "cincinnati": "CIN", "browns": "CLE", "cleveland": "CLE", "cowboys": "DAL", "dallas": "DAL",
+    "broncos": "DEN", "denver": "DEN", "lions": "DET", "detroit": "DET", "packers": "GB", "green bay": "GB",
+    "texans": "HOU", "houston": "HOU", "colts": "IND", "indianapolis": "IND", "jaguars": "JAX", "jacksonville": "JAX",
+    "chiefs": "KC", "kansas city": "KC", "raiders": "LV", "las vegas": "LV", "chargers": "LAC", "rams": "LAR",
+    "dolphins": "MIA", "miami": "MIA", "vikings": "MIN", "minnesota": "MIN", "patriots": "NE", "new england": "NE",
+    "saints": "NO", "new orleans": "NO", "giants": "NYG", "jets": "NYJ", "eagles": "PHI", "philadelphia": "PHI",
+    "steelers": "PIT", "pittsburgh": "PIT", "49ers": "SF", "niners": "SF", "san francisco": "SF",
+    "seahawks": "SEA", "seattle": "SEA", "buccaneers": "TB", "bucs": "TB", "tampa bay": "TB",
+    "titans": "TEN", "tennessee": "TEN", "commanders": "WAS", "washington": "WAS",
+}
+_TEAM_RX = [(re.compile(r"\b" + re.escape(k) + r"\b", re.I), v) for k, v in TEAM_WORDS.items()]
+ROUNDUP_CAP = 8
+
+
+def headline_teams(title: str, idx) -> set[str]:
+    """Teams a headline is about: team names/cities plus teams of players named in it.
+    ('Washington' is skipped when it's part of a player's name.)"""
+    teams = set()
+    stripped = title
+    for p, full, _ in idx:
+        if full.search(title):
+            teams.add(p["team"])
+            stripped = full.sub(" ", stripped)
+    for rx, t in _TEAM_RX:
+        if rx.search(stripped):
+            teams.add(t)
+    return teams
+
+
+def sanity_filter(hist: list[dict], players: list[dict], idx) -> list[dict]:
+    """Drop AI effects that cross teams; cap AI effects from team-less roundups."""
+    by_id = {p["id"]: p for p in players}
+    out = []
+    for h in hist:
+        if h.get("method") != "ai":
+            out.append(h)
+            continue
+        p = by_id.get(h["pid"])
+        team = p["team"] if p else None
+        tt = headline_teams(h.get("headline", ""), idx)
+        if tt:
+            if team and team not in tt:
+                continue  # e.g. a Ravens story moving Bengals receivers
+        else:
+            h = {**h, "pct": max(-ROUNDUP_CAP, min(ROUNDUP_CAP, h["pct"]))}
+        out.append(h)
+    return out
+
+
 def build_name_index(players: list[dict]):
     """Full-name regexes for every player in the universe."""
     idx = []
@@ -170,7 +222,7 @@ def score_ai(batch: list[tuple[dict, list[dict]]], roster: list[dict]) -> dict |
         "pct = integer -50..50 change in value from role, opportunity, suspension, or team change. "
         "Do NOT put missed games into pct; use status/weeksOut for injuries.\n"
         "status = H, Q, OUT, IR or null. weeksOut = games missed starting this week (99 = season) or null.\n"
-        "Skip stories with no real fantasy effect. Use exact names from the list.\n"
+        "Only score a player if the story gives specific news about HIM or HIS OWN TEAM. Never apply one team's news to players on a different team, and skip players only mentioned in passing (e.g. in roundups or comparisons). Skip stories with no real fantasy effect. Use exact names from the list.\n"
         'Reply with JSON only, no other text: {"items":[{"story":0,"player":"","pct":0,"status":null,"weeksOut":null,"note":"short reason"}]}\n\n'
         f"PLAYER LIST: {names}\n\nSTORIES:\n" + "\n".join(stories)
     )
@@ -277,6 +329,10 @@ def update_news(players: list[dict], feeds: list[dict], history: list[dict], now
     for h in hist:
         uniq[h["id"]] = h
     hist = sorted(uniq.values(), key=lambda h: h["date"], reverse=True)
+    before = len(hist)
+    hist = sanity_filter(hist, players, idx)
+    if before != len(hist):
+        print(f"  dropped {before - len(hist)} cross-team AI news effect(s)")
     for h in hist:
         age = (now - datetime.fromisoformat(h["date"])).total_seconds() / 86400
         h["eff"] = round(h["pct"] * 0.5 ** (max(0, age) / HALF_LIFE_DAYS), 1)
