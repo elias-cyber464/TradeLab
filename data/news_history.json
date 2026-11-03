@@ -1,1 +1,58 @@
-[]
+[
+ {
+  "id": "7e797f866d63:8137",
+  "pid": "8137",
+  "name": "George Pickens",
+  "date": "2026-11-03T17:24:25+00:00",
+  "headline": "Cowboys' Jerry Jones has blunt response on George Pickens' useage: 'He needs the ball coming his way more'",
+  "link": "https://www.cbssports.com/nfl/news/cowboys-jerry-jones-wants-george-pickens-to-be-more-involved/",
+  "source": "CBS Sports",
+  "pct": 0,
+  "status": null,
+  "weeksOut": null,
+  "note": "Traded",
+  "method": "rules"
+ },
+ {
+  "id": "d7f57fa54602:4881",
+  "pid": "4881",
+  "name": "Lamar Jackson",
+  "date": "2026-11-03T15:03:28+00:00",
+  "headline": "Is Lamar Jackson out for the season? Latest injury update on Ravens QB",
+  "link": "https://sports.yahoo.com/articles/lamar-jackson-season-latest-injury-150328743.html",
+  "source": "Yahoo Sports",
+  "pct": 0,
+  "status": "IR",
+  "weeksOut": 99,
+  "note": "Season-ending injury",
+  "method": "rules"
+ },
+ {
+  "id": "04be1e3abe43:3257",
+  "pid": "3257",
+  "name": "Jacoby Brissett",
+  "date": "2026-11-02T22:27:10+00:00",
+  "headline": "Cardinals name Gardner Minshew as starter, Carson Beck No. 2: What's next for Jacoby Brissett?",
+  "link": "https://www.cbssports.com/nfl/news/cardinals-name-gardner-minshew-carson-beck-no-2-jacoby-brissett/",
+  "source": "CBS Sports",
+  "pct": -15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Lost role",
+  "method": "rules"
+ },
+ {
+  "id": "6089ef27369b:6011",
+  "pid": "6011",
+  "name": "Gardner Minshew II",
+  "date": "2026-11-02T13:30:41+00:00",
+  "headline": "NFL news, live updates: Lions LB Jack Campbell remains hospitalized with neck injury; Cardinals bench Jacoby Brissett, will start Gardner Minshew in Week 9",
+  "link": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-133115104.html",
+  "source": "Yahoo Sports",
+  "pct": 12,
+  "status": null,
+  "weeksOut": null,
+  "note": "Bigger role",
+  "method": "rules"
+ }
+]
