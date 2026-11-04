@@ -1,5 +1,33 @@
 [
  {
+  "id": "07b72464353f:8110",
+  "pid": "8110",
+  "name": "Jake Ferguson",
+  "date": "2026-11-04T05:15:57+00:00",
+  "headline": "Jake Ferguson gets good prognosis on ankle injury",
+  "link": "https://sports.yahoo.com/articles/jake-ferguson-gets-good-prognosis-051557667.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": "Q",
+  "weeksOut": null,
+  "note": "Ankle injury but good prognosis, likely to return soon",
+  "method": "ai"
+ },
+ {
+  "id": "6804886d6194:11565",
+  "pid": "11565",
+  "name": "J.J. McCarthy",
+  "date": "2026-11-04T02:52:46+00:00",
+  "headline": "Vic Fangio: J.J. McCarthy was a \"steal\" for the Giants",
+  "link": "https://sports.yahoo.com/articles/vic-fangio-j-j-mccarthy-025246470.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Coach labels him a \"steal\", boosting outlook",
+  "method": "ai"
+ },
+ {
   "id": "fd6ef00b2fa4:9224",
   "pid": "9224",
   "name": "Chase Brown",
@@ -68,6 +96,34 @@
   "weeksOut": 1,
   "note": "Suspension",
   "method": "rules"
+ },
+ {
+  "id": "20cd9a023858:11563",
+  "pid": "11563",
+  "name": "Bo Nix",
+  "date": "2026-11-03T22:46:35+00:00",
+  "headline": "Bo Nix has 15 game-winning drives, most ever for a QB in his first three seasons",
+  "link": "https://sports.yahoo.com/articles/bo-nix-15-game-winning-224635377.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Set record with 15 game\u2011winning drives, raises value",
+  "method": "ai"
+ },
+ {
+  "id": "2dbf59f5dc36:1166",
+  "pid": "1166",
+  "name": "Kirk Cousins",
+  "date": "2026-11-03T22:39:00+00:00",
+  "headline": "Raiders make some changes and take down the Jets",
+  "link": "https://sports.yahoo.com/articles/raiders-changes-down-jets-223900397.html",
+  "source": "Yahoo Sports",
+  "pct": 3,
+  "status": null,
+  "weeksOut": null,
+  "note": "Helped Raiders get back on track, modest positive impact",
+  "method": "ai"
  },
  {
   "id": "5b738d21e355:4881",
@@ -418,6 +474,20 @@
   "weeksOut": null,
   "note": "Released",
   "method": "rules"
+ },
+ {
+  "id": "abd2bec83d64:11560",
+  "pid": "11560",
+  "name": "Caleb Williams",
+  "date": "2026-11-03T21:02:18+00:00",
+  "headline": "Why Bears' Caleb Williams gave up his fight against the NFL over his unapproved cleats",
+  "link": "https://www.cbssports.com/nfl/news/why-bears-caleb-williams-gave-fight-against-nfl-over-cleats/",
+  "source": "CBS Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Complies with uniform policy, avoids potential suspension",
+  "method": "ai"
  },
  {
   "id": "d6d97ed81db6:6794",
