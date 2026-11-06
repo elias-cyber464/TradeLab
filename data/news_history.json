@@ -1,5 +1,19 @@
 [
  {
+  "id": "6428e52b2e66:4046",
+  "pid": "4046",
+  "name": "Patrick Mahomes",
+  "date": "2026-11-06T03:45:15+00:00",
+  "headline": "Full practice for Patrick Mahomes Thursday",
+  "link": "https://sports.yahoo.com/articles/full-practice-patrick-mahomes-thursday-034515572.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Full practice indicates health and full role",
+  "method": "ai"
+ },
+ {
   "id": "0ea71244590a:6803",
   "pid": "6803",
   "name": "Brandon Aiyuk",
@@ -25,6 +39,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Potential release discussion could lower value",
+  "method": "ai"
+ },
+ {
+  "id": "c122b903d190:11632",
+  "pid": "11632",
+  "name": "Malik Nabers",
+  "date": "2026-11-06T02:48:33+00:00",
+  "headline": "Malik Nabers putting up superstar-level numbers the Giants need",
+  "link": "https://sports.yahoo.com/articles/malik-nabers-putting-superstar-level-024833707.html",
+  "source": "Yahoo Sports",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Superstar\u2011level production boosts value",
   "method": "ai"
  },
  {
@@ -112,6 +140,48 @@
   "method": "ai"
  },
  {
+  "id": "e31b1d3bd653:6813",
+  "pid": "6813",
+  "name": "Jonathan Taylor",
+  "date": "2026-11-06T01:57:52+00:00",
+  "headline": "Colts RB Jonathan Taylor offers cryptic response on possible trade request from Indianapolis",
+  "link": "https://sports.yahoo.com/articles/colts-rb-jonathan-taylor-offers-015752795.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade speculation raises interest",
+  "method": "ai"
+ },
+ {
+  "id": "93d13454db44:8155",
+  "pid": "8155",
+  "name": "Breece Hall",
+  "date": "2026-11-06T01:41:19+00:00",
+  "headline": "Breece Hall not ready to surrender Jets starting job despite Braelon Allen\u2019s breakout",
+  "link": "https://sports.yahoo.com/articles/breece-hall-not-ready-surrender-014119815.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Confirmed starter on return from quad injury",
+  "method": "ai"
+ },
+ {
+  "id": "93d13454db44:11576",
+  "pid": "11576",
+  "name": "Braelon Allen",
+  "date": "2026-11-06T01:41:19+00:00",
+  "headline": "Breece Hall not ready to surrender Jets starting job despite Braelon Allen\u2019s breakout",
+  "link": "https://sports.yahoo.com/articles/breece-hall-not-ready-surrender-014119815.html",
+  "source": "Yahoo Sports",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Reduced role as Hall resumes starting duties",
+  "method": "ai"
+ },
+ {
   "id": "02ef3ecfb00c:11557",
   "pid": "11557",
   "name": "Joe Milton",
@@ -126,6 +196,48 @@
   "method": "ai"
  },
  {
+  "id": "e881c43e7c5d:11557",
+  "pid": "11557",
+  "name": "Joe Milton",
+  "date": "2026-11-06T01:34:33+00:00",
+  "headline": "Joe Milton on his first start: The NFL is about being ready when your number is called",
+  "link": "https://sports.yahoo.com/articles/joe-milton-first-start-nfl-013433372.html",
+  "source": "Yahoo Sports",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "First career start gives significant opportunity",
+  "method": "ai"
+ },
+ {
+  "id": "d9af665f21f7:6813",
+  "pid": "6813",
+  "name": "Jonathan Taylor",
+  "date": "2026-11-06T01:19:47+00:00",
+  "headline": "Colts reportedly still hoping for \u2018Christian McCaffrey-esque\u2019 trade package for Jonathan Taylor",
+  "link": "https://sports.yahoo.com/articles/colts-reportedly-still-hoping-christian-011947171.html",
+  "source": "Yahoo Sports",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade talks may lower his fantasy value",
+  "method": "ai"
+ },
+ {
+  "id": "d5b0bb63aa49:3294",
+  "pid": "3294",
+  "name": "Dak Prescott",
+  "date": "2026-11-06T01:19:02+00:00",
+  "headline": "Dak Prescott delivers blunt assessment of Cowboys' offensive identity: 'Are we proud of it? I don't know'",
+  "link": "https://www.cbssports.com/nfl/news/dak-prescott-cowboys-offensive-identity-comment-brian-schottenheimer/",
+  "source": "CBS Sports",
+  "pct": -2,
+  "status": null,
+  "weeksOut": null,
+  "note": "Public frustration could hint at upcoming instability",
+  "method": "ai"
+ },
+ {
   "id": "d1103b04f4e6:11581",
   "pid": "11581",
   "name": "MarShawn Lloyd",
@@ -137,6 +249,20 @@
   "status": "H",
   "weeksOut": null,
   "note": "Downgraded on injury report, reducing value",
+  "method": "ai"
+ },
+ {
+  "id": "5bafef090756:6803",
+  "pid": "6803",
+  "name": "Brandon Aiyuk",
+  "date": "2026-11-06T00:28:50+00:00",
+  "headline": "George Kittle\u2019s blunt 8-word reaction to Brandon Aiyuk return to 49ers",
+  "link": "https://sports.yahoo.com/articles/george-kittle-blunt-8-word-002850926.html",
+  "source": "Yahoo Sports",
+  "pct": 25,
+  "status": null,
+  "weeksOut": null,
+  "note": "Aiyuk expected to return to 49ers, increasing his opportunity",
   "method": "ai"
  },
  {
@@ -277,6 +403,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Filed for reinstatement, expected back at facility",
+  "method": "ai"
+ },
+ {
+  "id": "1fc5f4b0d029:6803",
+  "pid": "6803",
+  "name": "Brandon Aiyuk",
+  "date": "2026-11-05T23:33:15+00:00",
+  "headline": "John Lynch on Brandon Aiyuk: We'll look for a path that works for both sides",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-lynch-on-brandon-aiyuk-well-look-for-a-path-that-works-for-both-sides",
+  "source": "ProFootballTalk",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Aiyuk filing for reinstatement and heading to facility, improving his outlook",
   "method": "ai"
  },
  {
@@ -448,6 +588,34 @@
   "method": "rules"
  },
  {
+  "id": "6453d74aded6:7039",
+  "pid": "7039",
+  "name": "Cody White",
+  "date": "2026-11-05T22:57:06+00:00",
+  "headline": "Raiders re-sign WR Cody White, waive TE Carter Runyon",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-re-sign-wr-cody-white-waive-te-carter-runyon",
+  "source": "ProFootballTalk",
+  "pct": -30,
+  "status": null,
+  "weeksOut": null,
+  "note": "Released",
+  "method": "rules"
+ },
+ {
+  "id": "d6f5c45cf786:8137",
+  "pid": "8137",
+  "name": "George Pickens",
+  "date": "2026-11-05T22:52:14+00:00",
+  "headline": "Cowboys stars reject George Pickens trade talk ahead of NFL deadline",
+  "link": "https://www.cbssports.com/nfl/news/george-pickens-trade-rumors-cowboys-nfl-deadline/",
+  "source": "CBS Sports",
+  "pct": 4,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade speculation but praised by teammates, raising upside",
+  "method": "ai"
+ },
+ {
   "id": "9dbafa4a74d2:4033",
   "pid": "4033",
   "name": "David Njoku",
@@ -487,6 +655,20 @@
   "status": "IR",
   "weeksOut": null,
   "note": "Ankle and foot injuries, not practicing",
+  "method": "ai"
+ },
+ {
+  "id": "02ac5111e214:6804",
+  "pid": "6804",
+  "name": "Jordan Love",
+  "date": "2026-11-05T22:11:58+00:00",
+  "headline": "Why Jordan Love could face an NFL fine over Halloween costume",
+  "link": "https://www.cbssports.com/nfl/news/jordan-love-halloween-costume-nfl-fine/",
+  "source": "CBS Sports",
+  "pct": -1,
+  "status": null,
+  "weeksOut": null,
+  "note": "Potential fine for costume may slightly affect value",
   "method": "ai"
  },
  {
@@ -882,6 +1064,48 @@
   "method": "ai"
  },
  {
+  "id": "f708ed3acd8c:5850",
+  "pid": "5850",
+  "name": "Josh Jacobs",
+  "date": "2026-11-05T16:21:59+00:00",
+  "headline": "Josh Jacobs addresses latest allegations after being accused of abuse by three more women",
+  "link": "https://www.cbssports.com/nfl/news/packers-josh-jacobs-addresses-latest-allegations/",
+  "source": "CBS Sports",
+  "pct": 0,
+  "status": null,
+  "weeksOut": null,
+  "note": "Allegations dismissed; no impact on playing status",
+  "method": "ai"
+ },
+ {
+  "id": "4b6ccdc0d6d1:4984",
+  "pid": "4984",
+  "name": "Josh Allen",
+  "date": "2026-11-05T15:14:24+00:00",
+  "headline": "NFL Week 9 upset alert: Texans allow Chargers their first win, Vikings overtake Josh Allen's Bills",
+  "link": "https://www.cbssports.com/nfl/news/nfl-week-9-upset-alert-texans-chargers-vikings-bills/",
+  "source": "CBS Sports",
+  "pct": -3,
+  "status": null,
+  "weeksOut": null,
+  "note": "Team loss may dampen short\u2011term outlook",
+  "method": "ai"
+ },
+ {
+  "id": "06bdd761088a:13350",
+  "pid": "13350",
+  "name": "Joe Fagnano",
+  "date": "2026-11-05T14:22:37+00:00",
+  "headline": "NFL Thursday Night Football preview: Ravens to start rookie Joe Fagnano at QB vs. Jaguars",
+  "link": "https://sports.yahoo.com/nfl/article/nfl-thursday-night-football-preview-ravens-to-start-rookie-joe-fagnano-at-qb-vs-jaguars-142237247.html",
+  "source": "Yahoo Sports",
+  "pct": 20,
+  "status": null,
+  "weeksOut": null,
+  "note": "Ravens will start rookie QB Joe Fagnano, boosting his fantasy value",
+  "method": "ai"
+ },
+ {
   "id": "76c4302897e5:3198",
   "pid": "3198",
   "name": "Derrick Henry",
@@ -1075,6 +1299,62 @@
   "status": null,
   "weeksOut": null,
   "note": "Returned to practice, back in rotation",
+  "method": "ai"
+ },
+ {
+  "id": "42a59beee3cf:5995",
+  "pid": "5995",
+  "name": "Justice Hill",
+  "date": "2026-11-05T09:39:00+00:00",
+  "headline": "Justice Hill: Season-high rushing yardage total",
+  "link": "https://www.rotowire.com//football/player/justice-hill-13427",
+  "source": "RotoWire",
+  "pct": 7,
+  "status": null,
+  "weeksOut": null,
+  "note": "Strong 85\u2011yard, TD performance suggests increased role",
+  "method": "ai"
+ },
+ {
+  "id": "5d3c1c7d862c:5012",
+  "pid": "5012",
+  "name": "Mark Andrews",
+  "date": "2026-11-05T09:29:00+00:00",
+  "headline": "Mark Andrews: Two catches in Week 9 loss",
+  "link": "https://www.rotowire.com//football/player/mark-andrews-12559",
+  "source": "RotoWire",
+  "pct": 3,
+  "status": null,
+  "weeksOut": null,
+  "note": "Caught two passes, maintaining target share",
+  "method": "ai"
+ },
+ {
+  "id": "d4d2bf0a81b6:13350",
+  "pid": "13350",
+  "name": "Joe Fagnano",
+  "date": "2026-11-05T09:24:00+00:00",
+  "headline": "Joe Fagnano: Modest numbers in starting role",
+  "link": "https://www.rotowire.com//football/player/joe-fagnano-19428",
+  "source": "RotoWire",
+  "pct": -4,
+  "status": null,
+  "weeksOut": null,
+  "note": "Modest passing numbers and two interceptions may lower value",
+  "method": "ai"
+ },
+ {
+  "id": "ec4aad6ff1ff:7523",
+  "pid": "7523",
+  "name": "Trevor Lawrence",
+  "date": "2026-11-05T09:09:00+00:00",
+  "headline": "Trevor Lawrence: Solid numbers in comfortable win",
+  "link": "https://www.rotowire.com//football/player/trevor-lawrence-15357",
+  "source": "RotoWire",
+  "pct": 6,
+  "status": null,
+  "weeksOut": null,
+  "note": "Solid 242\u2011yard game boosts perceived opportunity",
   "method": "ai"
  },
  {
