@@ -1,5 +1,19 @@
 [
  {
+  "id": "f21c582a7376:6803",
+  "pid": "6803",
+  "name": "Brandon Aiyuk",
+  "date": "2026-11-07T06:16:46+00:00",
+  "headline": "Is Brandon Aiyuk returning to 49ers? Latest on NFL's greatest soap opera",
+  "link": "https://sports.yahoo.com/articles/brandon-aiyuk-returning-49ers-latest-061646461.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Meeting with 49ers suggests possible return, modest value boost",
+  "method": "ai"
+ },
+ {
   "id": "5af533cb475e:13320",
   "pid": "13320",
   "name": "Zachariah Branch",
@@ -81,6 +95,20 @@
   "status": null,
   "weeksOut": null,
   "note": "More RB depth with Brian Robinson out",
+  "method": "ai"
+ },
+ {
+  "id": "b78adbcee566:6803",
+  "pid": "6803",
+  "name": "Brandon Aiyuk",
+  "date": "2026-11-07T02:21:18+00:00",
+  "headline": "49ers divorce may lead to daunting NFL future for Brandon Aiyuk, says insider",
+  "link": "https://sports.yahoo.com/articles/49ers-divorce-may-lead-daunting-022118243.html",
+  "source": "Yahoo Sports",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Divorce proceedings may distract, lowering fantasy outlook",
   "method": "ai"
  },
  {
@@ -182,6 +210,20 @@
   "method": "ai"
  },
  {
+  "id": "ef8e91c6de35:12524",
+  "pid": "12524",
+  "name": "Shedeur Sanders",
+  "date": "2026-11-07T01:31:14+00:00",
+  "headline": "Saints playing with \u2018chip on our shoulder\u2019 as Shedeur Sanders gets first 2026 start for Browns",
+  "link": "https://sports.yahoo.com/articles/saints-playing-chip-shoulder-shedeur-013114796.html",
+  "source": "Yahoo Sports",
+  "pct": 30,
+  "status": null,
+  "weeksOut": null,
+  "note": "Earned first start for Browns, becoming primary QB",
+  "method": "ai"
+ },
+ {
   "id": "1aa36a9f26da:2216",
   "pid": "2216",
   "name": "Mike Evans",
@@ -277,6 +319,34 @@
   "status": null,
   "weeksOut": null,
   "note": "Confirmed healthy and ready for Week 9, increasing redraft value",
+  "method": "ai"
+ },
+ {
+  "id": "5c7b8e434f42:12487",
+  "pid": "12487",
+  "name": "Terrance Ferguson",
+  "date": "2026-11-07T01:07:41+00:00",
+  "headline": "Rams rule out crucial Matthew Stafford weapon while defense gets encouraging injury upgrade",
+  "link": "https://sports.yahoo.com/articles/rams-rule-crucial-matthew-stafford-010741037.html",
+  "source": "Yahoo Sports",
+  "pct": -35,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Hamstring injury, out indefinitely",
+  "method": "ai"
+ },
+ {
+  "id": "5c7b8e434f42:421",
+  "pid": "421",
+  "name": "Matthew Stafford",
+  "date": "2026-11-07T01:07:41+00:00",
+  "headline": "Rams rule out crucial Matthew Stafford weapon while defense gets encouraging injury upgrade",
+  "link": "https://sports.yahoo.com/articles/rams-rule-crucial-matthew-stafford-010741037.html",
+  "source": "Yahoo Sports",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Loses starting TE, slight value drop",
   "method": "ai"
  },
  {
@@ -431,6 +501,48 @@
   "status": "OUT",
   "weeksOut": 99,
   "note": "likely released, no roster spot",
+  "method": "ai"
+ },
+ {
+  "id": "cb2f6f9523e1:8146",
+  "pid": "8146",
+  "name": "Garrett Wilson",
+  "date": "2026-11-06T23:55:02+00:00",
+  "headline": "Adonai Mitchell, Omar Cooper Jr. get \u2018great opportunity\u2019 against Chiefs with Garrett Wilson out",
+  "link": "https://sports.yahoo.com/articles/adonai-mitchell-omar-cooper-jr-235502026.html",
+  "source": "Yahoo Sports",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Concussion, out for upcoming game",
+  "method": "ai"
+ },
+ {
+  "id": "cb2f6f9523e1:13276",
+  "pid": "13276",
+  "name": "Omar Cooper",
+  "date": "2026-11-06T23:55:02+00:00",
+  "headline": "Adonai Mitchell, Omar Cooper Jr. get \u2018great opportunity\u2019 against Chiefs with Garrett Wilson out",
+  "link": "https://sports.yahoo.com/articles/adonai-mitchell-omar-cooper-jr-235502026.html",
+  "source": "Yahoo Sports",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Gets increased target share with Wilson out",
+  "method": "ai"
+ },
+ {
+  "id": "cb2f6f9523e1:11625",
+  "pid": "11625",
+  "name": "Adonai Mitchell",
+  "date": "2026-11-06T23:55:02+00:00",
+  "headline": "Adonai Mitchell, Omar Cooper Jr. get \u2018great opportunity\u2019 against Chiefs with Garrett Wilson out",
+  "link": "https://sports.yahoo.com/articles/adonai-mitchell-omar-cooper-jr-235502026.html",
+  "source": "Yahoo Sports",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Opportunity to see more snaps with Wilson out",
   "method": "ai"
  },
  {
