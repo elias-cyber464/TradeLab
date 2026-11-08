@@ -84,6 +84,20 @@
   "method": "ai"
  },
  {
+  "id": "9273ccb01fa4:6813",
+  "pid": "6813",
+  "name": "Jonathan Taylor",
+  "date": "2026-11-08T00:00:29+00:00",
+  "headline": "AFC Notes: Josh Downs, Jonathan Taylor, Colts, Texans, Titans",
+  "link": "https://nfltraderumors.co/afc-notes-josh-downs-jonathan-taylor-colts-texans-titans/",
+  "source": "NFL Trade Rumors",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Continued trade speculation keeps value elevated",
+  "method": "ai"
+ },
+ {
   "id": "a4a42f44b82f:8154",
   "pid": "8154",
   "name": "Brian Robinson",
@@ -95,6 +109,34 @@
   "status": "IR",
   "weeksOut": 4,
   "note": "Placed on IR, will miss at least four games, reducing value",
+  "method": "ai"
+ },
+ {
+  "id": "44219ce77dc9:6813",
+  "pid": "6813",
+  "name": "Jonathan Taylor",
+  "date": "2026-11-07T23:54:16+00:00",
+  "headline": "Vikings could end up with both Daniel Jones and Jonathan Taylor",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-could-end-up-with-both-daniel-jones-and-jonathan-taylor",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade speculation to Vikings could boost value",
+  "method": "ai"
+ },
+ {
+  "id": "44219ce77dc9:5870",
+  "pid": "5870",
+  "name": "Daniel Jones",
+  "date": "2026-11-07T23:54:16+00:00",
+  "headline": "Vikings could end up with both Daniel Jones and Jonathan Taylor",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-could-end-up-with-both-daniel-jones-and-jonathan-taylor",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade speculation to Vikings could boost value",
   "method": "ai"
  },
  {
@@ -473,6 +515,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Hot streak of 4+ TD games raises value",
+  "method": "ai"
+ },
+ {
+  "id": "ff80a8892d16:6770",
+  "pid": "6770",
+  "name": "Joe Burrow",
+  "date": "2026-11-07T19:32:26+00:00",
+  "headline": "Joe Burrow can become third quarterback with four or more TD passes in four straight games",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-can-become-third-quarterback-with-four-or-more-td-passes-in-four-straight-games",
+  "source": "ProFootballTalk",
+  "pct": 7,
+  "status": null,
+  "weeksOut": null,
+  "note": "Four straight games with 4+ TD passes raises value",
   "method": "ai"
  },
  {
