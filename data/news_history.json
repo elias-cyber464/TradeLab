@@ -1,5 +1,47 @@
 [
  {
+  "id": "2087c5d61dec:9500",
+  "pid": "9500",
+  "name": "Josh Downs",
+  "date": "2026-11-08T09:32:24+00:00",
+  "headline": "Report: Colts have told teams they were offered a fourth-round pick for Josh Downs",
+  "link": "https://sports.yahoo.com/articles/report-colts-told-teams-were-093224843.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade interest could boost his value",
+  "method": "ai"
+ },
+ {
+  "id": "3bf9828088df:9500",
+  "pid": "9500",
+  "name": "Josh Downs",
+  "date": "2026-11-08T09:32:24+00:00",
+  "headline": "Report: Colts have told teams they were offered a fourth-round pick for Josh Downs",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-have-told-teams-they-were-offered-a-fourth-round-pick-for-josh-downs",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade speculation could boost his redraft value",
+  "method": "ai"
+ },
+ {
+  "id": "04f188a51739:7049",
+  "pid": "7049",
+  "name": "Jauan Jennings",
+  "date": "2026-11-08T01:06:17+00:00",
+  "headline": "Jauan Jennings\u2019 shocking decision to stay in Minnesota revealed",
+  "link": "https://sports.yahoo.com/articles/jauan-jennings-shocking-decision-stay-010617034.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Decision to stay in MIN suggests stable role",
+  "method": "ai"
+ },
+ {
   "id": "8da51ba39a51:6806",
   "pid": "6806",
   "name": "J.K. Dobbins",
@@ -81,6 +123,20 @@
   "status": null,
   "weeksOut": null,
   "note": "May see more passing volume",
+  "method": "ai"
+ },
+ {
+  "id": "473fa01489d3:11632",
+  "pid": "11632",
+  "name": "Malik Nabers",
+  "date": "2026-11-08T00:10:02+00:00",
+  "headline": "Chris Mara tells The Post what\u2019s changed with J.J. McCarthy \u2014 two years after Giants passed on QB in draft",
+  "link": "https://sports.yahoo.com/articles/chris-mara-tells-post-changed-001002119.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Drafted by Giants, likely more opportunity",
   "method": "ai"
  },
  {
@@ -4071,6 +4127,20 @@
   "status": "OUT",
   "weeksOut": null,
   "note": "Still on reserve/left squad list, not reinstated",
+  "method": "ai"
+ },
+ {
+  "id": "5218401094c2:96",
+  "pid": "96",
+  "name": "Aaron Rodgers",
+  "date": "2026-11-06T15:30:47+00:00",
+  "headline": "NFL Trade Deadline: 4 mock trades that would make Steelers a true Super Bowl contender",
+  "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-4-trade-options-steelers-super-bowl-contender/",
+  "source": "CBS Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Final season push may increase usage",
   "method": "ai"
  },
  {
