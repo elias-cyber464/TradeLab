@@ -1,5 +1,47 @@
 [
  {
+  "id": "16a3a9399f62:8183",
+  "pid": "8183",
+  "name": "Brock Purdy",
+  "date": "2026-11-08T12:05:18+00:00",
+  "headline": "2026 Week 9 NFL player props, odds, picks, best bets for Sunday's games include Brock Purdy, Nico Collins",
+  "link": "https://www.cbssports.com/betting/news/2026-week-9-nfl-player-props-odds-picks-best-bets-for-sundays-games-include-brock-purdy-nico-collins/",
+  "source": "CBS Sports",
+  "pct": 0,
+  "status": null,
+  "weeksOut": null,
+  "note": "Mentioned in prop article; no status or role change",
+  "method": "ai"
+ },
+ {
+  "id": "16a3a9399f62:7569",
+  "pid": "7569",
+  "name": "Nico Collins",
+  "date": "2026-11-08T12:05:18+00:00",
+  "headline": "2026 Week 9 NFL player props, odds, picks, best bets for Sunday's games include Brock Purdy, Nico Collins",
+  "link": "https://www.cbssports.com/betting/news/2026-week-9-nfl-player-props-odds-picks-best-bets-for-sundays-games-include-brock-purdy-nico-collins/",
+  "source": "CBS Sports",
+  "pct": 0,
+  "status": null,
+  "weeksOut": null,
+  "note": "Mentioned in prop article; no status or role change",
+  "method": "ai"
+ },
+ {
+  "id": "ca7ce027ffc0:11557",
+  "pid": "11557",
+  "name": "Joe Milton",
+  "date": "2026-11-08T11:05:30+00:00",
+  "headline": "Who is Joe Milton III? Eagles turn to QB with 'cannon' arm strength",
+  "link": "https://sports.yahoo.com/articles/joe-milton-iii-eagles-turn-110530515.html",
+  "source": "Yahoo Sports",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "First NFL start for Eagles, increased opportunity",
+  "method": "ai"
+ },
+ {
   "id": "2087c5d61dec:9500",
   "pid": "9500",
   "name": "Josh Downs",
@@ -25,6 +67,34 @@
   "status": null,
   "weeksOut": null,
   "note": "Trade speculation could boost his redraft value",
+  "method": "ai"
+ },
+ {
+  "id": "48675f1c9038:7547",
+  "pid": "7547",
+  "name": "Amon-Ra St. Brown",
+  "date": "2026-11-08T03:09:00+00:00",
+  "headline": "Amon-Ra St. Brown: In line to play Sunday",
+  "link": "https://www.rotowire.com//football/player/amon-ra-st-brown-15332",
+  "source": "RotoWire",
+  "pct": 0,
+  "status": null,
+  "weeksOut": null,
+  "note": "Cleared to play despite rib issue; no change in value",
+  "method": "ai"
+ },
+ {
+  "id": "778de6fa4d92:11563",
+  "pid": "11563",
+  "name": "Bo Nix",
+  "date": "2026-11-08T01:17:52+00:00",
+  "headline": "Broncos and Bo Nix have won 16 straight one-score games",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-and-bo-nix-have-won-16-straight-one-score-games",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Broncos win 16 straight one\u2011score games, boosting Nix\u2019s upside.",
   "method": "ai"
  },
  {
@@ -123,6 +193,34 @@
   "status": null,
   "weeksOut": null,
   "note": "May see more passing volume",
+  "method": "ai"
+ },
+ {
+  "id": "ab3c5add798e:7547",
+  "pid": "7547",
+  "name": "Amon-Ra St. Brown",
+  "date": "2026-11-08T00:30:53+00:00",
+  "headline": "NFC Notes: Jonathan Gannon, Wes Phillips, Lions, Packers, Vikings",
+  "link": "https://nfltraderumors.co/nfc-notes-jonathan-gannon-wes-phillips-lions-packers-vikings/",
+  "source": "NFL Trade Rumors",
+  "pct": -2,
+  "status": null,
+  "weeksOut": null,
+  "note": "Fined for unsportsmanlike conduct; minor negative impact.",
+  "method": "ai"
+ },
+ {
+  "id": "ab3c5add798e:8148",
+  "pid": "8148",
+  "name": "Jameson Williams",
+  "date": "2026-11-08T00:30:53+00:00",
+  "headline": "NFC Notes: Jonathan Gannon, Wes Phillips, Lions, Packers, Vikings",
+  "link": "https://nfltraderumors.co/nfc-notes-jonathan-gannon-wes-phillips-lions-packers-vikings/",
+  "source": "NFL Trade Rumors",
+  "pct": -2,
+  "status": null,
+  "weeksOut": null,
+  "note": "Fined for unsportsmanlike conduct; minor negative impact.",
   "method": "ai"
  },
  {
@@ -3246,6 +3344,20 @@
   "weeksOut": 0,
   "note": "Questionable",
   "method": "rules"
+ },
+ {
+  "id": "0ea8ed6c0c1c:6770",
+  "pid": "6770",
+  "name": "Joe Burrow",
+  "date": "2026-11-06T19:08:24+00:00",
+  "headline": "NFL in Spain: Bengals star Joe Burrow goes full tourist in Madrid, reveals the one thing he hates the most",
+  "link": "https://www.cbssports.com/nfl/news/nfl-spain-bengals-joe-burrow-full-tourist-in-madrid/",
+  "source": "CBS Sports",
+  "pct": 0,
+  "status": null,
+  "weeksOut": null,
+  "note": "Tourist story; no impact on fantasy value",
+  "method": "ai"
  },
  {
   "id": "3b0d3ec31a5e:12524",
