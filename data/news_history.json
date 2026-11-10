@@ -252,6 +252,20 @@
   "method": "ai"
  },
  {
+  "id": "106dc5b56170:7611",
+  "pid": "7611",
+  "name": "Rhamondre Stevenson",
+  "date": "2026-11-10T03:21:18+00:00",
+  "headline": "Patriots RB Rhamondre Stevenson will miss multiple weeks with a knee issue",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-rb-rhamondre-stevenson-will-miss-multiple-weeks-with-a-knee-issue",
+  "source": "ProFootballTalk",
+  "pct": -35,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Multiple\u2011week knee issue removes primary RB",
+  "method": "ai"
+ },
+ {
   "id": "ebf8eb384e0b:4984",
   "pid": "4984",
   "name": "Josh Allen",
@@ -362,6 +376,34 @@
   "weeksOut": 1,
   "note": "Ruled out",
   "method": "rules"
+ },
+ {
+  "id": "6c4ed89477ac:2216",
+  "pid": "2216",
+  "name": "Mike Evans",
+  "date": "2026-11-10T02:56:30+00:00",
+  "headline": "49ers star receivers Mike Evans and Deebo Samuel head in opposite injury directions",
+  "link": "https://sports.yahoo.com/articles/49ers-star-receivers-mike-evans-025630125.html",
+  "source": "Yahoo Sports",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": 1,
+  "note": "Out for at least one week, reducing his redraft value",
+  "method": "ai"
+ },
+ {
+  "id": "29b8e7acad55:7611",
+  "pid": "7611",
+  "name": "Rhamondre Stevenson",
+  "date": "2026-11-10T02:40:47+00:00",
+  "headline": "Patriots RB Rhamondre Stevenson Could Miss Time With Knee Injury",
+  "link": "https://nfltraderumors.co/patriots-rb-rhamondre-stevenson-could-miss-time-with-knee-injury/",
+  "source": "NFL Trade Rumors",
+  "pct": -35,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Knee tendon issue expected to miss multiple weeks",
+  "method": "ai"
  },
  {
   "id": "d7fccff20d76:13272",
@@ -532,6 +574,34 @@
   "method": "ai"
  },
  {
+  "id": "43ae94bd3f36:8110",
+  "pid": "8110",
+  "name": "Jake Ferguson",
+  "date": "2026-11-10T01:54:59+00:00",
+  "headline": "Jake Ferguson, Tyler Goodson will miss multiple weeks for Cowboys",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jake-ferguson-tyler-goodson-will-miss-multiple-weeks-for-cowboys",
+  "source": "ProFootballTalk",
+  "pct": -25,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Starting TE out for multiple weeks",
+  "method": "ai"
+ },
+ {
+  "id": "43ae94bd3f36:8207",
+  "pid": "8207",
+  "name": "Tyler Goodson",
+  "date": "2026-11-10T01:54:59+00:00",
+  "headline": "Jake Ferguson, Tyler Goodson will miss multiple weeks for Cowboys",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jake-ferguson-tyler-goodson-will-miss-multiple-weeks-for-cowboys",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Backup RB unavailable for multiple weeks",
+  "method": "ai"
+ },
+ {
   "id": "dca5d202a1d8:6797",
   "pid": "6797",
   "name": "Justin Herbert",
@@ -543,6 +613,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Imaging shows no fracture, cleared to play",
+  "method": "ai"
+ },
+ {
+  "id": "20fd5d9f25bf:6797",
+  "pid": "6797",
+  "name": "Justin Herbert",
+  "date": "2026-11-10T01:31:55+00:00",
+  "headline": "Imaging showed no fracture in Justin Herbert's finger",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/imaging-showed-no-fracture-in-justin-herberts-finger",
+  "source": "ProFootballTalk",
+  "pct": -15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Finger injury may limit production",
   "method": "ai"
  },
  {
@@ -1176,6 +1260,20 @@
   "method": "ai"
  },
  {
+  "id": "4bb93a619708:6011",
+  "pid": "6011",
+  "name": "Gardner Minshew",
+  "date": "2026-11-09T22:39:14+00:00",
+  "headline": "Gardner Minshew having tests on right arm after injury on Sunday",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/gardner-minshew-having-tests-on-right-arm-after-injury-on-sunday",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": "Q",
+  "weeksOut": null,
+  "note": "Arm injury leaves his Week\u202f10 status uncertain",
+  "method": "ai"
+ },
+ {
   "id": "4573a2572200:9493",
   "pid": "9493",
   "name": "Puka Nacua",
@@ -1243,6 +1341,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Backup WR gets more targets",
+  "method": "ai"
+ },
+ {
+  "id": "55a39e3ad114:9493",
+  "pid": "9493",
+  "name": "Puka Nacua",
+  "date": "2026-11-09T22:31:14+00:00",
+  "headline": "Puka Nacua headed to IR with MCL, PCL knee sprains, turf toe",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-headed-to-ir-with-mcl-pcl-knee-sprains-turf-toe",
+  "source": "ProFootballTalk",
+  "pct": -40,
+  "status": "IR",
+  "weeksOut": 99,
+  "note": "MCL/PCL sprains and turf toe land him on IR",
   "method": "ai"
  },
  {
@@ -1607,6 +1719,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Will see increased targets with Nacua on IR.",
+  "method": "ai"
+ },
+ {
+  "id": "1eb9dea73f6f:7670",
+  "pid": "7670",
+  "name": "Joshua Palmer",
+  "date": "2026-11-09T22:04:39+00:00",
+  "headline": "Bills place Joshua Palmer on IR, elevate Geno Stone, Trent Sherfield",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-place-joshua-palmer-on-ir-elevate-geno-stone-trent-sherfield",
+  "source": "ProFootballTalk",
+  "pct": -30,
+  "status": "IR",
+  "weeksOut": 99,
+  "note": "Placed on IR, out for season",
   "method": "ai"
  },
  {
