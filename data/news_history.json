@@ -1,5 +1,47 @@
 [
  {
+  "id": "1ecbd766e154:12481",
+  "pid": "12481",
+  "name": "Cam Skattebo",
+  "date": "2026-11-10T11:00:00+00:00",
+  "headline": "Giants news: Trade deadline day, Cam Skattebo should be \u2018full-go\u2019, more",
+  "link": "https://sports.yahoo.com/articles/giants-news-trade-deadline-day-110000023.html",
+  "source": "Yahoo Sports",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Expected to see full\u2011go role, increased opportunity",
+  "method": "ai"
+ },
+ {
+  "id": "62432a366fc2:3257",
+  "pid": "3257",
+  "name": "Jacoby Brissett",
+  "date": "2026-11-10T11:00:00+00:00",
+  "headline": "Ravens news: Eric DeCosta gets mixed grades for Jacoby Brissett trade",
+  "link": "https://sports.yahoo.com/articles/ravens-news-eric-decosta-gets-110000510.html",
+  "source": "Yahoo Sports",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade news suggests he will leave Ravens, reducing his value",
+  "method": "ai"
+ },
+ {
+  "id": "62432a366fc2:7083",
+  "pid": "7083",
+  "name": "Tyler Huntley",
+  "date": "2026-11-10T11:00:00+00:00",
+  "headline": "Ravens news: Eric DeCosta gets mixed grades for Jacoby Brissett trade",
+  "link": "https://sports.yahoo.com/articles/ravens-news-eric-decosta-gets-110000510.html",
+  "source": "Yahoo Sports",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Backup QB likely to see more snaps after Brissett trade",
+  "method": "ai"
+ },
+ {
   "id": "03ba4944cf4a:3161",
   "pid": "3161",
   "name": "Carson Wentz",
@@ -11,6 +53,20 @@
   "status": null,
   "weeksOut": null,
   "note": "continued poor play, hurts fantasy outlook",
+  "method": "ai"
+ },
+ {
+  "id": "e17d4aa02ab4:6794",
+  "pid": "6794",
+  "name": "Justin Jefferson",
+  "date": "2026-11-10T05:02:48+00:00",
+  "headline": "Receiver-needy teams should call about Justin Jefferson",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/receiver-needy-teams-should-call-about-justin-jefferson",
+  "source": "ProFootballTalk",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Vikings unlikely to upgrade QB, limiting Jefferson's upside",
   "method": "ai"
  },
  {
@@ -964,6 +1020,20 @@
   "weeksOut": 0,
   "note": "Returning",
   "method": "rules"
+ },
+ {
+  "id": "1165ed61def4:10859",
+  "pid": "10859",
+  "name": "Sam LaPorta",
+  "date": "2026-11-09T23:08:19+00:00",
+  "headline": "Lions Have Received Calls On TE Sam LaPorta",
+  "link": "https://nfltraderumors.co/lions-have-received-calls-on-te-sam-laporta/",
+  "source": "NFL Trade Rumors",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade interest from other teams could see LaPorta leave Lions",
+  "method": "ai"
  },
  {
   "id": "56628380cd9e:13272",
