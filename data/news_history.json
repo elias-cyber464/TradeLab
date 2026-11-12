@@ -1,5 +1,19 @@
 [
  {
+  "id": "f414a5174b49:5854",
+  "pid": "5854",
+  "name": "Drew Lock",
+  "date": "2026-11-12T03:46:48+00:00",
+  "headline": "Drew Lock limited at Wednesday's practice",
+  "link": "https://sports.yahoo.com/articles/drew-lock-limited-wednesdays-practice-034648415.html",
+  "source": "Yahoo Sports",
+  "pct": 0,
+  "status": "Q",
+  "weeksOut": 0,
+  "note": "Questionable",
+  "method": "rules"
+ },
+ {
   "id": "7d539125b116:11603",
   "pid": "11603",
   "name": "AJ Barner",
@@ -25,6 +39,48 @@
   "status": "OUT",
   "weeksOut": null,
   "note": "unable to practice, sidelined",
+  "method": "ai"
+ },
+ {
+  "id": "a837ee86af69:9493",
+  "pid": "9493",
+  "name": "Puka Nacua",
+  "date": "2026-11-12T02:21:50+00:00",
+  "headline": "Matthew Stafford defiant as Rams face injury crisis without Puka Nacua, Davante Adams",
+  "link": "https://sports.yahoo.com/articles/matthew-stafford-defiant-rams-face-022150243.html",
+  "source": "Yahoo Sports",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Injured, unavailable for Rams' receiving corps",
+  "method": "ai"
+ },
+ {
+  "id": "a837ee86af69:2133",
+  "pid": "2133",
+  "name": "Davante Adams",
+  "date": "2026-11-12T02:21:50+00:00",
+  "headline": "Matthew Stafford defiant as Rams face injury crisis without Puka Nacua, Davante Adams",
+  "link": "https://sports.yahoo.com/articles/matthew-stafford-defiant-rams-face-022150243.html",
+  "source": "Yahoo Sports",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Injured, out for Rams",
+  "method": "ai"
+ },
+ {
+  "id": "a837ee86af69:421",
+  "pid": "421",
+  "name": "Matthew Stafford",
+  "date": "2026-11-12T02:21:50+00:00",
+  "headline": "Matthew Stafford defiant as Rams face injury crisis without Puka Nacua, Davante Adams",
+  "link": "https://sports.yahoo.com/articles/matthew-stafford-defiant-rams-face-022150243.html",
+  "source": "Yahoo Sports",
+  "pct": -15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Key receivers injured, reduces QB upside",
   "method": "ai"
  },
  {
@@ -266,6 +322,20 @@
   "method": "ai"
  },
  {
+  "id": "8a5b36ca1799:1479",
+  "pid": "1479",
+  "name": "Keenan Allen",
+  "date": "2026-11-12T00:41:50+00:00",
+  "headline": "Kyle Shanahan throws kitchen sink at Keenan Allen in 49ers\u2019 desperate situation",
+  "link": "https://sports.yahoo.com/articles/kyle-shanahan-throws-kitchen-sink-004150768.html",
+  "source": "Yahoo Sports",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "coach criticism may reduce target share",
+  "method": "ai"
+ },
+ {
   "id": "e2dedf03d6b0:421",
   "pid": "421",
   "name": "Matthew Stafford",
@@ -292,6 +362,20 @@
   "weeksOut": 0,
   "note": "Returning",
   "method": "rules"
+ },
+ {
+  "id": "f6993225af80:13272",
+  "pid": "13272",
+  "name": "Carson Beck",
+  "date": "2026-11-12T00:32:38+00:00",
+  "headline": "Carson Beck has \u2018all the confidence\u2019 of Cardinals going into first career NFL start",
+  "link": "https://sports.yahoo.com/articles/carson-beck-confidence-cardinals-going-003238547.html",
+  "source": "Yahoo Sports",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "first career start boosts upside",
+  "method": "ai"
  },
  {
   "id": "82cce60fa10d:8676",
@@ -378,6 +462,20 @@
   "method": "ai"
  },
  {
+  "id": "e690b30cf0c5:10232",
+  "pid": "10232",
+  "name": "Michael Wilson",
+  "date": "2026-11-12T00:00:08+00:00",
+  "headline": "NFC Notes: Kirk Cousins, Michael Wilson, Cardinals, Falcons, Vikings",
+  "link": "https://nfltraderumors.co/nfc-notes-kirk-cousins-michael-wilson-cardinals-falcons-vikings/",
+  "source": "NFL Trade Rumors",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": 99,
+  "note": "Will miss remainder of season, eliminating his redraft value",
+  "method": "ai"
+ },
+ {
   "id": "da5f5445cfc1:5872",
   "pid": "5872",
   "name": "Deebo Samuel",
@@ -404,6 +502,34 @@
   "weeksOut": 0,
   "note": "Returning",
   "method": "rules"
+ },
+ {
+  "id": "2b539efe200a:2216",
+  "pid": "2216",
+  "name": "Mike Evans",
+  "date": "2026-11-11T23:54:53+00:00",
+  "headline": "49ers\u2019 Keenan Allen trade makes more sense after latest Mike Evans injury update",
+  "link": "https://sports.yahoo.com/articles/49ers-keenan-allen-trade-makes-235453134.html",
+  "source": "Yahoo Sports",
+  "pct": -20,
+  "status": "Q",
+  "weeksOut": null,
+  "note": "week-to-week injury lowers availability",
+  "method": "ai"
+ },
+ {
+  "id": "2b539efe200a:1479",
+  "pid": "1479",
+  "name": "Keenan Allen",
+  "date": "2026-11-11T23:54:53+00:00",
+  "headline": "49ers\u2019 Keenan Allen trade makes more sense after latest Mike Evans injury update",
+  "link": "https://sports.yahoo.com/articles/49ers-keenan-allen-trade-makes-235453134.html",
+  "source": "Yahoo Sports",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "receives more targets with Evans out",
+  "method": "ai"
  },
  {
   "id": "0aec8a49f29b:13269",
@@ -644,6 +770,90 @@
   "method": "ai"
  },
  {
+  "id": "07c45365947f:5849",
+  "pid": "5849",
+  "name": "Kyler Murray",
+  "date": "2026-11-11T21:56:45+00:00",
+  "headline": "Kevin O'Connell on Kyler Murray: I want him to get healthy, you never know what could happen",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-kyler-murray-i-want-him-to-get-healthy-you-never-know-what-could-happen",
+  "source": "ProFootballTalk",
+  "pct": -20,
+  "status": "IR",
+  "weeksOut": null,
+  "note": "injury limits play",
+  "method": "ai"
+ },
+ {
+  "id": "07c45365947f:6794",
+  "pid": "6794",
+  "name": "Justin Jefferson",
+  "date": "2026-11-11T21:56:45+00:00",
+  "headline": "Kevin O'Connell on Kyler Murray: I want him to get healthy, you never know what could happen",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-kyler-murray-i-want-him-to-get-healthy-you-never-know-what-could-happen",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target volume",
+  "method": "ai"
+ },
+ {
+  "id": "07c45365947f:9756",
+  "pid": "9756",
+  "name": "Jordan Addison",
+  "date": "2026-11-11T21:56:45+00:00",
+  "headline": "Kevin O'Connell on Kyler Murray: I want him to get healthy, you never know what could happen",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-kyler-murray-i-want-him-to-get-healthy-you-never-know-what-could-happen",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target volume",
+  "method": "ai"
+ },
+ {
+  "id": "07c45365947f:7049",
+  "pid": "7049",
+  "name": "Jauan Jennings",
+  "date": "2026-11-11T21:56:45+00:00",
+  "headline": "Kevin O'Connell on Kyler Murray: I want him to get healthy, you never know what could happen",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-kyler-murray-i-want-him-to-get-healthy-you-never-know-what-could-happen",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target volume",
+  "method": "ai"
+ },
+ {
+  "id": "07c45365947f:2078",
+  "pid": "2078",
+  "name": "Odell Beckham Jr.",
+  "date": "2026-11-11T21:56:45+00:00",
+  "headline": "Kevin O'Connell on Kyler Murray: I want him to get healthy, you never know what could happen",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-kyler-murray-i-want-him-to-get-healthy-you-never-know-what-could-happen",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target volume",
+  "method": "ai"
+ },
+ {
+  "id": "07c45365947f:5844",
+  "pid": "5844",
+  "name": "T.J. Hockenson",
+  "date": "2026-11-11T21:56:45+00:00",
+  "headline": "Kevin O'Connell on Kyler Murray: I want him to get healthy, you never know what could happen",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-kyler-murray-i-want-him-to-get-healthy-you-never-know-what-could-happen",
+  "source": "ProFootballTalk",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury slightly lowers passing TD chances",
+  "method": "ai"
+ },
+ {
   "id": "8d38d52bf625:13272",
   "pid": "13272",
   "name": "Carson Beck",
@@ -812,6 +1022,20 @@
   "method": "ai"
  },
  {
+  "id": "13de4e918d43:3163",
+  "pid": "3163",
+  "name": "Jared Goff",
+  "date": "2026-11-11T21:17:16+00:00",
+  "headline": "Jared Goff listed as limited at Lions practice due to chest injury",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-goff-listed-as-limited-at-lions-practice-due-to-chest-injury",
+  "source": "ProFootballTalk",
+  "pct": -15,
+  "status": "Q",
+  "weeksOut": null,
+  "note": "limited practice due to chest injury",
+  "method": "ai"
+ },
+ {
   "id": "0e9c169e1310:3163",
   "pid": "3163",
   "name": "Jared Goff",
@@ -910,6 +1134,20 @@
   "method": "ai"
  },
  {
+  "id": "d270e5d0e9a3:8137",
+  "pid": "8137",
+  "name": "George Pickens",
+  "date": "2026-11-11T21:15:56+00:00",
+  "headline": "Joey Porter Jr. did not practice Wednesday, but George Pickens was limited",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-did-not-practice-wednesday-but-george-pickens-was-limited",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Limited practice reduces upside for the rest of the season",
+  "method": "ai"
+ },
+ {
   "id": "08b1a2733643:9493",
   "pid": "9493",
   "name": "Puka Nacua",
@@ -935,6 +1173,20 @@
   "status": null,
   "weeksOut": null,
   "note": "could be back soon",
+  "method": "ai"
+ },
+ {
+  "id": "7775e892aef2:2133",
+  "pid": "2133",
+  "name": "Davante Adams",
+  "date": "2026-11-11T21:04:54+00:00",
+  "headline": "Sean McVay: Davante Adams could return after Week 12 game vs. Packers",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-davante-adams-could-return-after-week-12-game-vs-packers",
+  "source": "ProFootballTalk",
+  "pct": 15,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Potential return after Week 12 boosts future value",
   "method": "ai"
  },
  {
