@@ -770,6 +770,20 @@
   "method": "ai"
  },
  {
+  "id": "7a039c2e01a8:1166",
+  "pid": "1166",
+  "name": "Kirk Cousins",
+  "date": "2026-11-11T21:57:15+00:00",
+  "headline": "Kirk Cousins plans to talk to Jakobe Thomas about No. 8",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-plans-to-talk-to-jakobe-thomas-about-no-8",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Officially returned to Vikings, confirming active status",
+  "method": "ai"
+ },
+ {
   "id": "07c45365947f:5849",
   "pid": "5849",
   "name": "Kyler Murray",
@@ -1257,6 +1271,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Help on the way improves outlook",
+  "method": "ai"
+ },
+ {
+  "id": "b8decabce211:6813",
+  "pid": "6813",
+  "name": "Jonathan Taylor",
+  "date": "2026-11-11T18:49:24+00:00",
+  "headline": "NFL trade deadline: Jonathan Taylor leads candidates for offseason moves after staying put",
+  "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-jonathan-taylor-trade-candidates-offseason-moves-after-staying-put-deadline/",
+  "source": "CBS Sports",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade speculation creates uncertainty about his role next season",
   "method": "ai"
  },
  {
@@ -1789,6 +1817,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Gets his first real opportunity, boosting redraft value",
+  "method": "ai"
+ },
+ {
+  "id": "54f1de03fab6:9509",
+  "pid": "9509",
+  "name": "Bijan Robinson",
+  "date": "2026-11-11T15:31:35+00:00",
+  "headline": "Giants attempted to trade for Falcons star RB Bijan Robinson at trade deadline, per report",
+  "link": "https://www.cbssports.com/nfl/news/giants-attempted-to-trade-for-falcons-bijan-robinson-trade-deadline/",
+  "source": "CBS Sports",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Giants' interest raises his perceived value and potential opportunity",
   "method": "ai"
  },
  {
@@ -3217,6 +3259,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Potentially taking over LV offense",
+  "method": "ai"
+ },
+ {
+  "id": "21d23ca711bb:6813",
+  "pid": "6813",
+  "name": "Jonathan Taylor",
+  "date": "2026-11-10T18:51:34+00:00",
+  "headline": "Jonathan Taylor mock trades: How Giants, Broncos, Vikings could target Colts star RB",
+  "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-jonathan-taylor-mock-trades/",
+  "source": "CBS Sports",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Mock trade scenarios keep his value volatile",
   "method": "ai"
  },
  {
