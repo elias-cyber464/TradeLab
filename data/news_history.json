@@ -1,5 +1,33 @@
 [
  {
+  "id": "3209227b89ad:11566",
+  "pid": "11566",
+  "name": "Jayden Daniels",
+  "date": "2026-11-13T05:39:02+00:00",
+  "headline": "Heroes, zeros from Giants\u2019 loss to Commanders: Jayden Daniels remains unbeaten against Big Blue",
+  "link": "https://sports.yahoo.com/articles/heroes-zeros-giants-loss-commanders-053902806.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Daniels remains unbeaten, boosting value",
+  "method": "ai"
+ },
+ {
+  "id": "7520618bd861:11632",
+  "pid": "11632",
+  "name": "Malik Nabers",
+  "date": "2026-11-13T05:15:19+00:00",
+  "headline": "Malik Nabers\u2019 stunned look said it all in frustrating Giants night \u2014 and week",
+  "link": "https://sports.yahoo.com/articles/malik-nabers-stunned-look-said-051519265.html",
+  "source": "Yahoo Sports",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Frustrated performance in Giants loss",
+  "method": "ai"
+ },
+ {
   "id": "c45325179628:5848",
   "pid": "5848",
   "name": "Hollywood Brown",
@@ -126,6 +154,34 @@
   "method": "ai"
  },
  {
+  "id": "8b928dd91b5d:6794",
+  "pid": "6794",
+  "name": "Justin Jefferson",
+  "date": "2026-11-13T03:37:28+00:00",
+  "headline": "Justin Jefferson drops truth bomb on Vikings trade with Raiders as \u2018much needed\u2019 amid QB struggles",
+  "link": "https://sports.yahoo.com/articles/justin-jefferson-drops-truth-bomb-033728585.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade talk suggests more QB stability",
+  "method": "ai"
+ },
+ {
+  "id": "8b928dd91b5d:1166",
+  "pid": "1166",
+  "name": "Kirk Cousins",
+  "date": "2026-11-13T03:37:28+00:00",
+  "headline": "Justin Jefferson drops truth bomb on Vikings trade with Raiders as \u2018much needed\u2019 amid QB struggles",
+  "link": "https://sports.yahoo.com/articles/justin-jefferson-drops-truth-bomb-033728585.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Potential trade improves his role",
+  "method": "ai"
+ },
+ {
   "id": "0019024fb1e3:6794",
   "pid": "6794",
   "name": "Justin Jefferson",
@@ -165,6 +221,34 @@
   "status": null,
   "weeksOut": null,
   "note": "scored TD, increased value",
+  "method": "ai"
+ },
+ {
+  "id": "1183e706ce7e:5848",
+  "pid": "5848",
+  "name": "Hollywood Brown",
+  "date": "2026-11-13T03:00:00+00:00",
+  "headline": "Eagles continue reshaping roster by reportedly releasing veteran wide receiver",
+  "link": "https://sports.yahoo.com/articles/eagles-continue-reshaping-roster-reportedly-221326007.html",
+  "source": "Yahoo Sports",
+  "pct": -50,
+  "status": "OUT",
+  "weeksOut": 99,
+  "note": "Released by Eagles, out for season",
+  "method": "ai"
+ },
+ {
+  "id": "5b861a93f9f9:11566",
+  "pid": "11566",
+  "name": "Jayden Daniels",
+  "date": "2026-11-13T03:00:00+00:00",
+  "headline": "Winners, losers as Commanders upset Giants 24-21 on Thursday Night Football",
+  "link": "https://sports.yahoo.com/articles/winners-losers-commanders-upset-giants-171100995.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Kept Washington season alive in upset",
   "method": "ai"
  },
  {
