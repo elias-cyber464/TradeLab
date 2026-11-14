@@ -1,5 +1,33 @@
 [
  {
+  "id": "28a9e1e60e8f:13269",
+  "pid": "13269",
+  "name": "Fernando Mendoza",
+  "date": "2026-11-14T03:00:34+00:00",
+  "headline": "At least 50 different quarterbacks will have started games through Week 10",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/at-least-50-different-quarterbacks-will-have-started-games-through-week-10",
+  "source": "ProFootballTalk",
+  "pct": 8,
+  "status": null,
+  "weeksOut": null,
+  "note": "First career start, increasing redraft value",
+  "method": "ai"
+ },
+ {
+  "id": "1dfd0adf7862:5859",
+  "pid": "5859",
+  "name": "A.J. Brown",
+  "date": "2026-11-14T01:35:38+00:00",
+  "headline": "NFL Week 10 injury report: Chiefs' Kenneth Walker has new groin injury, Patriots' A.J. Brown questionable",
+  "link": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
+  "source": "CBS Sports",
+  "pct": 0,
+  "status": "Q",
+  "weeksOut": 0,
+  "note": "Questionable",
+  "method": "rules"
+ },
+ {
   "id": "b30a2a27221b:5854",
   "pid": "5854",
   "name": "Drew Lock",
@@ -98,6 +126,48 @@
   "method": "ai"
  },
  {
+  "id": "5978acce9ec2:1166",
+  "pid": "1166",
+  "name": "Kirk Cousins",
+  "date": "2026-11-13T22:26:46+00:00",
+  "headline": "Vikings name Week 10 starter vs Packers after Kirk Cousins trade",
+  "link": "https://sports.yahoo.com/articles/vikings-name-week-10-starter-222646065.html",
+  "source": "Yahoo Sports",
+  "pct": 20,
+  "status": null,
+  "weeksOut": null,
+  "note": "Named starter for Week 10, boosting value",
+  "method": "ai"
+ },
+ {
+  "id": "6f93d8d0e8da:8676",
+  "pid": "8676",
+  "name": "Rashid Shaheed",
+  "date": "2026-11-13T22:24:23+00:00",
+  "headline": "Seahawks-Raiders injury designations: Uchenna Nwosu returns, as well as Rashid Shaheed",
+  "link": "https://sports.yahoo.com/articles/seahawks-raiders-injury-designations-uchenna-222423809.html",
+  "source": "Yahoo Sports",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Returns from injury, increasing availability",
+  "method": "ai"
+ },
+ {
+  "id": "cd093d664de5:8137",
+  "pid": "8137",
+  "name": "George Pickens",
+  "date": "2026-11-13T22:22:33+00:00",
+  "headline": "Cowboys injuries: 49ers game status for George Pickens, Joey Porter Jr.",
+  "link": "https://sports.yahoo.com/articles/cowboys-injuries-49ers-game-status-222233503.html",
+  "source": "Yahoo Sports",
+  "pct": -20,
+  "status": "Q",
+  "weeksOut": null,
+  "note": "Listed on injury report, likely limited or missed game",
+  "method": "ai"
+ },
+ {
   "id": "d72df8daaf9d:5872",
   "pid": "5872",
   "name": "Deebo Samuel Sr.",
@@ -124,6 +194,34 @@
   "weeksOut": 0,
   "note": "Questionable",
   "method": "rules"
+ },
+ {
+  "id": "a9a3ed0a2618:5844",
+  "pid": "5844",
+  "name": "T.J. Hockenson",
+  "date": "2026-11-13T22:14:45+00:00",
+  "headline": "Vikings down key pieces for Week 10 matchup with Packers",
+  "link": "https://sports.yahoo.com/articles/vikings-down-key-pieces-week-221445007.html",
+  "source": "Yahoo Sports",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Out for the week, removing him from lineups",
+  "method": "ai"
+ },
+ {
+  "id": "8f30a8470066:2216",
+  "pid": "2216",
+  "name": "Mike Evans",
+  "date": "2026-11-13T22:12:03+00:00",
+  "headline": "\u2018There\u2019s a chance\u2019 Mike Evans can return to the 49ers next week",
+  "link": "https://sports.yahoo.com/articles/chance-mike-evans-return-49ers-221203571.html",
+  "source": "Yahoo Sports",
+  "pct": 10,
+  "status": "Q",
+  "weeksOut": null,
+  "note": "Potential return next week, slight boost in upside",
+  "method": "ai"
  },
  {
   "id": "551257e6754f:1166",
@@ -361,6 +459,20 @@
   "status": "OUT",
   "weeksOut": 99,
   "note": "Released by Eagles (duplicate report)",
+  "method": "ai"
+ },
+ {
+  "id": "5faa67945da4:8151",
+  "pid": "8151",
+  "name": "Kenneth Walker III",
+  "date": "2026-11-13T19:39:11+00:00",
+  "headline": "Kenneth Walker did not practice Friday with groin tightness",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-did-not-practice-friday-with-groin-tightness",
+  "source": "ProFootballTalk",
+  "pct": -15,
+  "status": "Q",
+  "weeksOut": null,
+  "note": "Missed practice with groin tightness, questionable availability",
   "method": "ai"
  },
  {
