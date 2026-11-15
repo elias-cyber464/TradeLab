@@ -1,5 +1,19 @@
 [
  {
+  "id": "3bc82e96a917:10212",
+  "pid": "10212",
+  "name": "Josh Whyle",
+  "date": "2026-11-15T02:00:43+00:00",
+  "headline": "Josh Whyle lands on IR",
+  "link": "https://sports.yahoo.com/articles/josh-whyle-lands-ir-020043693.html",
+  "source": "Yahoo Sports",
+  "pct": -40,
+  "status": "IR",
+  "weeksOut": null,
+  "note": "Concussion places him on IR, removing him from the lineup",
+  "method": "ai"
+ },
+ {
   "id": "3e101538d9ee:1479",
   "pid": "1479",
   "name": "Keenan Allen",
@@ -12,6 +26,62 @@
   "weeksOut": null,
   "note": "Traded",
   "method": "rules"
+ },
+ {
+  "id": "54ea1b8d8a14:3257",
+  "pid": "3257",
+  "name": "Jacoby Brissett",
+  "date": "2026-11-14T23:56:04+00:00",
+  "headline": "Jesse Minter: \"Very, very impressed\" with how Jacoby Brissett picked up offense",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jesse-minter-very-very-impressed-with-how-jacoby-brissett-picked-up-offense",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Positive grade on Ravens offense suggests higher fantasy upside",
+  "method": "ai"
+ },
+ {
+  "id": "e99d468d9314:12529",
+  "pid": "12529",
+  "name": "TreVeyon Henderson",
+  "date": "2026-11-14T23:30:22+00:00",
+  "headline": "What placing TreVeyon Henderson on IR, activating Greg Van Roten and Reggie Gilliam means for the Patriots",
+  "link": "https://sports.yahoo.com/articles/placing-treveyon-henderson-ir-activating-233022245.html",
+  "source": "Yahoo Sports",
+  "pct": -40,
+  "status": "IR",
+  "weeksOut": null,
+  "note": "Placed on IR, ending his season contribution",
+  "method": "ai"
+ },
+ {
+  "id": "dbb32f09ab9b:9500",
+  "pid": "9500",
+  "name": "Josh Downs",
+  "date": "2026-11-14T23:30:12+00:00",
+  "headline": "AFC Notes: Josh Downs, Jonathan Taylor, Chiefs, Colts, Jaguars",
+  "link": "https://nfltraderumors.co/afc-notes-josh-downs-jonathan-taylor-chiefs-colts-jaguars/",
+  "source": "NFL Trade Rumors",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Mahomes praise highlights increased target share and upside",
+  "method": "ai"
+ },
+ {
+  "id": "bd19f7e36db8:2216",
+  "pid": "2216",
+  "name": "Mike Evans",
+  "date": "2026-11-14T23:01:34+00:00",
+  "headline": "49ers provide encouraging injury update on Mike Evans",
+  "link": "https://sports.yahoo.com/articles/49ers-encouraging-injury-mike-evans-230134353.html",
+  "source": "Yahoo Sports",
+  "pct": 0,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Injury update indicates he will miss the upcoming game",
+  "method": "ai"
  },
  {
   "id": "af688878794d:8151",
@@ -221,6 +291,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Depth boost at RB",
+  "method": "ai"
+ },
+ {
+  "id": "952497732be8:12529",
+  "pid": "12529",
+  "name": "TreVeyon Henderson",
+  "date": "2026-11-14T21:53:30+00:00",
+  "headline": "Patriots place TreVeyon Henderson on injured reserve",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-place-treveyon-henderson-on-injured-reserve",
+  "source": "ProFootballTalk",
+  "pct": -20,
+  "status": "IR",
+  "weeksOut": null,
+  "note": "Placed on IR, out at least through Week 15, reducing value",
   "method": "ai"
  },
  {
