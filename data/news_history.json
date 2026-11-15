@@ -42,6 +42,20 @@
   "method": "ai"
  },
  {
+  "id": "e865f7548ce7:9493",
+  "pid": "9493",
+  "name": "Puka Nacua",
+  "date": "2026-11-14T23:42:56+00:00",
+  "headline": "Rams\u2019 Sean McVay crushes fantasy football owners",
+  "link": "https://sports.yahoo.com/articles/rams-sean-mcvay-crushes-fantasy-234256636.html",
+  "source": "Yahoo Sports",
+  "pct": -50,
+  "status": "IR",
+  "weeksOut": 99,
+  "note": "Placed on injured reserve, ending season",
+  "method": "ai"
+ },
+ {
   "id": "e99d468d9314:12529",
   "pid": "12529",
   "name": "TreVeyon Henderson",
@@ -714,6 +728,20 @@
   "method": "ai"
  },
  {
+  "id": "0aae4bdddb41:5967",
+  "pid": "5967",
+  "name": "Tony Pollard",
+  "date": "2026-11-14T16:54:18+00:00",
+  "headline": "Packers, Broncos explored possible Tony Pollard trade",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-broncos-explored-possible-tony-pollard-trade",
+  "source": "ProFootballTalk",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Trade interest boosts potential opportunity",
+  "method": "ai"
+ },
+ {
   "id": "05606699c597:8151",
   "pid": "8151",
   "name": "Kenneth Walker III",
@@ -837,6 +865,34 @@
   "status": null,
   "weeksOut": null,
   "note": "Activated; returns to roster after hamstring injury",
+  "method": "ai"
+ },
+ {
+  "id": "84247692732d:1166",
+  "pid": "1166",
+  "name": "Kirk Cousins",
+  "date": "2026-11-14T16:12:32+00:00",
+  "headline": "Report: Vikings first reached out to Raiders about Kirk Cousins on \"midday Monday\"",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-vikings-first-reached-out-to-raiders-about-kirk-cousins-on-monday-afternoon",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Vikings trade outreach raises value",
+  "method": "ai"
+ },
+ {
+  "id": "84247692732d:3161",
+  "pid": "3161",
+  "name": "Carson Wentz",
+  "date": "2026-11-14T16:12:32+00:00",
+  "headline": "Report: Vikings first reached out to Raiders about Kirk Cousins on \"midday Monday\"",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-vikings-first-reached-out-to-raiders-about-kirk-cousins-on-monday-afternoon",
+  "source": "ProFootballTalk",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Mentioned in meltdown context, slight value dip",
   "method": "ai"
  },
  {
