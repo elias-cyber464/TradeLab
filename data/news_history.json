@@ -1,5 +1,33 @@
 [
  {
+  "id": "a99345cb9edf:3257",
+  "pid": "3257",
+  "name": "Jacoby Brissett",
+  "date": "2026-11-17T05:09:31+00:00",
+  "headline": "Ravens Report Card, Week 10: Poor run defense and costly turnovers doom the Ravens",
+  "link": "https://sports.yahoo.com/articles/ravens-report-card-week-10-050931529.html",
+  "source": "Yahoo Sports",
+  "pct": 2,
+  "status": null,
+  "weeksOut": null,
+  "note": "Debut performance, modest boost to upside",
+  "method": "ai"
+ },
+ {
+  "id": "532595b0cabf:6797",
+  "pid": "6797",
+  "name": "Justin Herbert",
+  "date": "2026-11-17T04:38:46+00:00",
+  "headline": "Justin Herbert, Chargers break through. Ravens run nowhere. MNF winners and losers",
+  "link": "https://sports.yahoo.com/articles/justin-herbert-chargers-break-ravens-043846219.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "First win of season, strong play lifts value",
+  "method": "ai"
+ },
+ {
   "id": "c4f360b0ab44:3198",
   "pid": "3198",
   "name": "Derrick Henry",
@@ -252,6 +280,20 @@
   "method": "rules"
  },
  {
+  "id": "f7bc7f6f1fd0:2216",
+  "pid": "2216",
+  "name": "Mike Evans",
+  "date": "2026-11-17T01:35:57+00:00",
+  "headline": "49ers make necessary Mike Evans move to play vs Vikings; not what you think",
+  "link": "https://sports.yahoo.com/articles/49ers-necessary-mike-evans-move-013557845.html",
+  "source": "Yahoo Sports",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Expected return to field, improves availability",
+  "method": "ai"
+ },
+ {
   "id": "d1eb5cd6abd3:6797",
   "pid": "6797",
   "name": "Justin Herbert",
@@ -263,6 +305,20 @@
   "status": null,
   "weeksOut": null,
   "note": "hand appears fine, no health concern",
+  "method": "ai"
+ },
+ {
+  "id": "7f46dce9285f:6797",
+  "pid": "6797",
+  "name": "Justin Herbert",
+  "date": "2026-11-17T01:33:45+00:00",
+  "headline": "Justin Herbert runs for 22-yard TD, giving Chargers a 7-0 lead",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-runs-for-22-yard-td-giving-chargers-a-7-0-lead",
+  "source": "ProFootballTalk",
+  "pct": 3,
+  "status": null,
+  "weeksOut": null,
+  "note": "TD run, hand healthy, incremental value bump",
   "method": "ai"
  },
  {
@@ -291,6 +347,20 @@
   "status": null,
   "weeksOut": null,
   "note": "No catches despite snaps, lowers value",
+  "method": "ai"
+ },
+ {
+  "id": "0ae48a8b9655:11624",
+  "pid": "11624",
+  "name": "Xavier Worthy",
+  "date": "2026-11-17T00:55:00+00:00",
+  "headline": "Andy Reid defends Xavier Worthy, who had no catches in 57 snaps",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-defends-xavier-worthy-who-had-no-catches-in-57-snaps",
+  "source": "ProFootballTalk",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "No catches in game, limited upside for KC",
   "method": "ai"
  },
  {
@@ -574,6 +644,20 @@
   "method": "ai"
  },
  {
+  "id": "4b364b088f7c:12522",
+  "pid": "12522",
+  "name": "Cam Ward",
+  "date": "2026-11-16T21:46:54+00:00",
+  "headline": "Robert Saleh: We've put more on Cam Ward's plate and he's proving he can handle it",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-saleh-weve-put-more-on-cam-wards-plate-and-hes-proving-he-can-handle-it",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Increased workload, positive outlook for TEN QB slot",
+  "method": "ai"
+ },
+ {
   "id": "4653ae64b8c2:4033",
   "pid": "4033",
   "name": "David Njoku",
@@ -585,6 +669,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Activated, back on roster",
+  "method": "ai"
+ },
+ {
+  "id": "39bef57ec145:4033",
+  "pid": "4033",
+  "name": "David Njoku",
+  "date": "2026-11-16T21:17:58+00:00",
+  "headline": "Chargers activate TE David Njoku, LB Denzel Perryman for Monday night vs. Ravens",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-activate-te-david-njoku-lb-denzel-perryman-for-monday-night-vs-ravens",
+  "source": "ProFootballTalk",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Activated, now eligible for fantasy lineups",
   "method": "ai"
  },
  {
@@ -655,6 +753,118 @@
   "status": "OUT",
   "weeksOut": null,
   "note": "Injured in tackle by Aidan Hutchinson",
+  "method": "ai"
+ },
+ {
+  "id": "f241f7f5482c:11564",
+  "pid": "11564",
+  "name": "Drake Maye",
+  "date": "2026-11-16T21:03:50+00:00",
+  "headline": "NFL confirms Aidan Hutchinson's tackle of Drake Maye was not a hip drop",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-confirms-aidan-hutchinsons-tackle-of-drake-maye-was-not-a-hip-drop",
+  "source": "ProFootballTalk",
+  "pct": 0,
+  "status": "IR",
+  "weeksOut": null,
+  "note": "Injured, unavailable for upcoming games",
+  "method": "ai"
+ },
+ {
+  "id": "f241f7f5482c:5859",
+  "pid": "5859",
+  "name": "A.J. Brown",
+  "date": "2026-11-16T21:03:50+00:00",
+  "headline": "NFL confirms Aidan Hutchinson's tackle of Drake Maye was not a hip drop",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-confirms-aidan-hutchinsons-tackle-of-drake-maye-was-not-a-hip-drop",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target share",
+  "method": "ai"
+ },
+ {
+  "id": "f241f7f5482c:9501",
+  "pid": "9501",
+  "name": "DeMario Douglas",
+  "date": "2026-11-16T21:03:50+00:00",
+  "headline": "NFL confirms Aidan Hutchinson's tackle of Drake Maye was not a hip drop",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-confirms-aidan-hutchinsons-tackle-of-drake-maye-was-not-a-hip-drop",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target share",
+  "method": "ai"
+ },
+ {
+  "id": "f241f7f5482c:4177",
+  "pid": "4177",
+  "name": "Mack Hollins",
+  "date": "2026-11-16T21:03:50+00:00",
+  "headline": "NFL confirms Aidan Hutchinson's tackle of Drake Maye was not a hip drop",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-confirms-aidan-hutchinsons-tackle-of-drake-maye-was-not-a-hip-drop",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target share",
+  "method": "ai"
+ },
+ {
+  "id": "f241f7f5482c:8121",
+  "pid": "8121",
+  "name": "Romeo Doubs",
+  "date": "2026-11-16T21:03:50+00:00",
+  "headline": "NFL confirms Aidan Hutchinson's tackle of Drake Maye was not a hip drop",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-confirms-aidan-hutchinsons-tackle-of-drake-maye-was-not-a-hip-drop",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target share",
+  "method": "ai"
+ },
+ {
+  "id": "f241f7f5482c:12547",
+  "pid": "12547",
+  "name": "Kyle Williams",
+  "date": "2026-11-16T21:03:50+00:00",
+  "headline": "NFL confirms Aidan Hutchinson's tackle of Drake Maye was not a hip drop",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-confirms-aidan-hutchinsons-tackle-of-drake-maye-was-not-a-hip-drop",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target share",
+  "method": "ai"
+ },
+ {
+  "id": "f241f7f5482c:12542",
+  "pid": "12542",
+  "name": "Efton Chism III",
+  "date": "2026-11-16T21:03:50+00:00",
+  "headline": "NFL confirms Aidan Hutchinson's tackle of Drake Maye was not a hip drop",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-confirms-aidan-hutchinsons-tackle-of-drake-maye-was-not-a-hip-drop",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target share",
+  "method": "ai"
+ },
+ {
+  "id": "f241f7f5482c:3214",
+  "pid": "3214",
+  "name": "Hunter Henry",
+  "date": "2026-11-16T21:03:50+00:00",
+  "headline": "NFL confirms Aidan Hutchinson's tackle of Drake Maye was not a hip drop",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-confirms-aidan-hutchinsons-tackle-of-drake-maye-was-not-a-hip-drop",
+  "source": "ProFootballTalk",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB injury reduces target share",
   "method": "ai"
  },
  {
@@ -1666,6 +1876,20 @@
   "method": "ai"
  },
  {
+  "id": "368d184d2a03:12509",
+  "pid": "12509",
+  "name": "Tre' Harris",
+  "date": "2026-11-16T09:54:00+00:00",
+  "headline": "Tre' Harris: Career-best yardage total in win",
+  "link": "https://www.rotowire.com//football/player/tre-harris-18478",
+  "source": "RotoWire",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Career\u2011best 86 yards, solidifies role in LAC offense",
+  "method": "ai"
+ },
+ {
   "id": "2e181b98c2e8:11564",
   "pid": "11564",
   "name": "Drake Maye",
@@ -1677,6 +1901,20 @@
   "status": "Q",
   "weeksOut": null,
   "note": "possible fractured ankle, questionable status",
+  "method": "ai"
+ },
+ {
+  "id": "2c53ab62c532:9997",
+  "pid": "9997",
+  "name": "Zay Flowers",
+  "date": "2026-11-16T09:21:00+00:00",
+  "headline": "Zay Flowers: Solid night marred by key fumble",
+  "link": "https://www.rotowire.com//football/player/zay-flowers-16919",
+  "source": "RotoWire",
+  "pct": -3,
+  "status": null,
+  "weeksOut": null,
+  "note": "Fumble raises concerns, slight dip in value",
   "method": "ai"
  },
  {
