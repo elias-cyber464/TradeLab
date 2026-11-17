@@ -1,5 +1,33 @@
 [
  {
+  "id": "959730f5a227:3198",
+  "pid": "3198",
+  "name": "Derrick Henry",
+  "date": "2026-11-17T08:53:57+00:00",
+  "headline": "Derrick Henry on 10 carries for 10 yards: I don't have an answer, just not good enough",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-on-10-carries-for-10-yards-i-dont-have-an-answer-just-not-good-enough",
+  "source": "ProFootballTalk",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Poor rushing output, slight value drop",
+  "method": "ai"
+ },
+ {
+  "id": "56e2b3ee4681:7547",
+  "pid": "7547",
+  "name": "Amon-Ra St. Brown",
+  "date": "2026-11-17T07:35:11+00:00",
+  "headline": "\ud83e\udd68 Amon-Ra St. Brown explains Munich fit, TD celly",
+  "link": "https://www.espn.com/nfl/story/_/id/50493599/amon-ra-st-brown-german-roots-lederhosen-munich",
+  "source": "ESPN",
+  "pct": 3,
+  "status": null,
+  "weeksOut": null,
+  "note": "Impressive performance highlighted, modest boost",
+  "method": "ai"
+ },
+ {
   "id": "a99345cb9edf:3257",
   "pid": "3257",
   "name": "Jacoby Brissett",
@@ -11,6 +39,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Debut performance, modest boost to upside",
+  "method": "ai"
+ },
+ {
+  "id": "a179cb00804f:6797",
+  "pid": "6797",
+  "name": "Justin Herbert",
+  "date": "2026-11-17T04:53:46+00:00",
+  "headline": "Winless no more: Chargers hold off Ravens after forcing late fumble",
+  "link": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win",
+  "source": "ESPN",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "First win, Herbert's strong play boosts value",
   "method": "ai"
  },
  {
@@ -907,6 +949,20 @@
   "status": null,
   "weeksOut": null,
   "note": "First career TD praised by coach",
+  "method": "ai"
+ },
+ {
+  "id": "1095c9867df0:11564",
+  "pid": "11564",
+  "name": "Drake Maye",
+  "date": "2026-11-16T20:51:35+00:00",
+  "headline": "Drake Maye injury: Is the Patriots' season over? Can Tommy DeVito carry the offense?",
+  "link": "https://www.espn.com/nfl/story/_/id/50503981/drake-maye-ankle-injury-patriots-tommy-devito-stats",
+  "source": "ESPN",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": 99,
+  "note": "Season\u2011ending injury, out for rest of season",
   "method": "ai"
  },
  {
