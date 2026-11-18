@@ -224,6 +224,20 @@
   "method": "ai"
  },
  {
+  "id": "5cdeff5c02d6:8155",
+  "pid": "8155",
+  "name": "Breece Hall",
+  "date": "2026-11-18T02:17:07+00:00",
+  "headline": "How former Cyclones performed in Week 10 of the NFL",
+  "link": "https://sports.yahoo.com/articles/former-cyclones-performed-week-10-021707403.html",
+  "source": "Yahoo Sports",
+  "pct": 7,
+  "status": null,
+  "weeksOut": null,
+  "note": "Recorded 11 receptions, indicating increased target share and role in Jets offense",
+  "method": "ai"
+ },
+ {
   "id": "524e2916a348:12534",
   "pid": "12534",
   "name": "Kyle Monangai",
@@ -263,6 +277,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Moved to Saints practice squad, not active for fantasy",
+  "method": "ai"
+ },
+ {
+  "id": "41a13278c1c3:13269",
+  "pid": "13269",
+  "name": "Fernando Mendoza",
+  "date": "2026-11-17T23:21:34+00:00",
+  "headline": "NFL flexes Raiders-Browns to NBC's Sunday Night Football, Patriots-Chargers out",
+  "link": "https://sports.yahoo.com/articles/nfl-flexes-raiders-browns-nbcs-154247566.html",
+  "source": "Yahoo Sports",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Named starter for Raiders in Sunday Night Football, boosting visibility and opportunity",
   "method": "ai"
  },
  {
