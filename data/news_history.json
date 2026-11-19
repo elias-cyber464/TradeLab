@@ -1,5 +1,47 @@
 [
  {
+  "id": "f9edcac921a8:13302",
+  "pid": "13302",
+  "name": "Adam Randall",
+  "date": "2026-11-19T12:30:00+00:00",
+  "headline": "Ravens activate RB Adam Randall from injured reserve",
+  "link": "https://sports.yahoo.com/articles/ravens-activate-rb-adam-randall-123000697.html",
+  "source": "Yahoo Sports",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Activated from IR, could see rookie debut",
+  "method": "ai"
+ },
+ {
+  "id": "10d1f9404cd3:1373",
+  "pid": "1373",
+  "name": "Geno Smith",
+  "date": "2026-11-19T12:00:00+00:00",
+  "headline": "New York Jets News: \u2018Gimpy\u2019 Geno Smith set to Start vs. Chargers? Yikes.",
+  "link": "https://sports.yahoo.com/articles/york-jets-news-gimpy-geno-120000420.html",
+  "source": "Yahoo Sports",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Set to start for Jets, solidifying starter role",
+  "method": "ai"
+ },
+ {
+  "id": "006e13291977:5859",
+  "pid": "5859",
+  "name": "A.J. Brown",
+  "date": "2026-11-19T10:30:21+00:00",
+  "headline": "A.J. Brown reportedly \u2018out a little while\u2019 with hamstring injury",
+  "link": "https://sports.yahoo.com/articles/j-brown-reportedly-little-while-103021348.html",
+  "source": "Yahoo Sports",
+  "pct": -20,
+  "status": "H",
+  "weeksOut": null,
+  "note": "Hamstring injury, out a little while",
+  "method": "ai"
+ },
+ {
   "id": "b3baba700296:4950",
   "pid": "4950",
   "name": "Christian Kirk",
@@ -378,6 +420,34 @@
   "method": "ai"
  },
  {
+  "id": "c01e3e4895f2:1479",
+  "pid": "1479",
+  "name": "Keenan Allen",
+  "date": "2026-11-19T01:00:11+00:00",
+  "headline": "NFC Notes: Keenan Allen, Carson Beck, 49ers, Cardinals, Rams",
+  "link": "https://nfltraderumors.co/nfc-notes-keenan-allen-carson-beck-49ers-cardinals-rams/",
+  "source": "NFL Trade Rumors",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Building chemistry with QB Brock Purdy",
+  "method": "ai"
+ },
+ {
+  "id": "c01e3e4895f2:8183",
+  "pid": "8183",
+  "name": "Brock Purdy",
+  "date": "2026-11-19T01:00:11+00:00",
+  "headline": "NFC Notes: Keenan Allen, Carson Beck, 49ers, Cardinals, Rams",
+  "link": "https://nfltraderumors.co/nfc-notes-keenan-allen-carson-beck-49ers-cardinals-rams/",
+  "source": "NFL Trade Rumors",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Building chemistry with WR Keenan Allen",
+  "method": "ai"
+ },
+ {
   "id": "4fbf695b1e53:11635",
   "pid": "11635",
   "name": "Ladd McConkey",
@@ -389,6 +459,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Returns to practice, likely active again",
+  "method": "ai"
+ },
+ {
+  "id": "017b4d2095ff:11563",
+  "pid": "11563",
+  "name": "Bo Nix",
+  "date": "2026-11-19T00:30:41+00:00",
+  "headline": "AFC Notes: Justin Herbert, Fernando Mendoza, Bo Nix, Broncos, Chargers, Raiders",
+  "link": "https://nfltraderumors.co/afc-notes-justin-herbert-fernando-mendoza-bo-nix-broncos-chargers-raiders/",
+  "source": "NFL Trade Rumors",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Broncos seeking more consistency from him",
   "method": "ai"
  },
  {
@@ -518,6 +602,20 @@
   "method": "ai"
  },
  {
+  "id": "a45da7f64a13:11560",
+  "pid": "11560",
+  "name": "Caleb Williams",
+  "date": "2026-11-19T00:00:06+00:00",
+  "headline": "NFC Notes: Dan Campbell, Caleb Williams, Bears, Lions, Packers",
+  "link": "https://nfltraderumors.co/nfc-notes-dan-campbell-caleb-williams-bears-lions-packers-2/",
+  "source": "NFL Trade Rumors",
+  "pct": -10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Four interceptions, performance concerns",
+  "method": "ai"
+ },
+ {
   "id": "9dbf5d9b6a93:12481",
   "pid": "12481",
   "name": "Cam Skattebo",
@@ -613,6 +711,34 @@
   "status": null,
   "weeksOut": null,
   "note": "more targets with Evans limited",
+  "method": "ai"
+ },
+ {
+  "id": "5ea68a090313:13424",
+  "pid": "13424",
+  "name": "Seth McGowan",
+  "date": "2026-11-18T23:30:05+00:00",
+  "headline": "AFC Notes: Trevor Lawrence, Seth McGowan, C.J. Stroud, Colts, Jaguars, Texans",
+  "link": "https://nfltraderumors.co/afc-notes-trevor-lawrence-seth-mcgowan-c-j-stroud-colts-jaguars-texans/",
+  "source": "NFL Trade Rumors",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Broke onto the scene, increased role in Indy backfield",
+  "method": "ai"
+ },
+ {
+  "id": "5ea68a090313:6813",
+  "pid": "6813",
+  "name": "Jonathan Taylor",
+  "date": "2026-11-18T23:30:05+00:00",
+  "headline": "AFC Notes: Trevor Lawrence, Seth McGowan, C.J. Stroud, Colts, Jaguars, Texans",
+  "link": "https://nfltraderumors.co/afc-notes-trevor-lawrence-seth-mcgowan-c-j-stroud-colts-jaguars-texans/",
+  "source": "NFL Trade Rumors",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Continues to share backfield without losing touches",
   "method": "ai"
  },
  {
