@@ -1,5 +1,33 @@
 [
  {
+  "id": "56852d26cb1a:11564",
+  "pid": "11564",
+  "name": "Drake Maye",
+  "date": "2026-11-22T10:59:41+00:00",
+  "headline": "Are the Patriots playing today? NFL Week 11 schedule, AFC standings",
+  "link": "https://sports.yahoo.com/articles/patriots-playing-today-nfl-week-105941742.html",
+  "source": "Yahoo Sports",
+  "pct": -15,
+  "status": "Q",
+  "weeksOut": null,
+  "note": "Ankle injury raises doubt; likely limited or missed upcoming games",
+  "method": "ai"
+ },
+ {
+  "id": "2d20e6e7cfeb:8142",
+  "pid": "8142",
+  "name": "Alec Pierce",
+  "date": "2026-11-22T04:53:00+00:00",
+  "headline": "Alec Pierce: Expected to be shut down for the season",
+  "link": "https://www.rotowire.com//football/player/alec-pierce-16022",
+  "source": "RotoWire",
+  "pct": -50,
+  "status": "IR",
+  "weeksOut": 99,
+  "note": "Season\u2011ending heel injury puts him on IR for the rest of the year",
+  "method": "ai"
+ },
+ {
   "id": "7cb01e01375d:4984",
   "pid": "4984",
   "name": "Josh Allen",
