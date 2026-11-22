@@ -1,5 +1,47 @@
 [
  {
+  "id": "7cb01e01375d:4984",
+  "pid": "4984",
+  "name": "Josh Allen",
+  "date": "2026-11-22T04:31:54+00:00",
+  "headline": "Josh Allen is one score away from four straight seasons with 12 or more rushing touchdowns",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-is-one-score-away-from-four-straight-seasons-with-12-or-more-rushing-touchdowns",
+  "source": "ProFootballTalk",
+  "pct": 20,
+  "status": null,
+  "weeksOut": null,
+  "note": "Continuing to rack up rushing touchdowns, boosting value.",
+  "method": "ai"
+ },
+ {
+  "id": "40140998b8b3:9508",
+  "pid": "9508",
+  "name": "Tyjae Spears",
+  "date": "2026-11-22T04:17:18+00:00",
+  "headline": "Titans place Tyjae Spears on injured reserve",
+  "link": "https://sports.yahoo.com/articles/titans-place-tyjae-spears-injured-041718450.html",
+  "source": "Yahoo Sports",
+  "pct": -40,
+  "status": "IR",
+  "weeksOut": null,
+  "note": "Placed on injured reserve, likely season\u2011ending.",
+  "method": "ai"
+ },
+ {
+  "id": "d04c3681e244:11565",
+  "pid": "11565",
+  "name": "J.J. McCarthy",
+  "date": "2026-11-22T03:48:25+00:00",
+  "headline": "J.J. McCarthy showing improved touch on passes since joining Giants",
+  "link": "https://sports.yahoo.com/articles/j-j-mccarthy-showing-improved-034825545.html",
+  "source": "Yahoo Sports",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Showing improved passing touch after joining Giants.",
+  "method": "ai"
+ },
+ {
   "id": "e29453498959:9493",
   "pid": "9493",
   "name": "Puka Nacua",
@@ -196,6 +238,34 @@
   "method": "ai"
  },
  {
+  "id": "de519c1c8e73:11560",
+  "pid": "11560",
+  "name": "Caleb Williams",
+  "date": "2026-11-22T00:30:55+00:00",
+  "headline": "NFC Notes: Caleb Banks, Luther Burden, Bears, Lions, Vikings",
+  "link": "https://nfltraderumors.co/nfc-notes-caleb-banks-luther-burden-bears-lions-vikings/",
+  "source": "NFL Trade Rumors",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Positive endorsement from QB boosts perceived value",
+  "method": "ai"
+ },
+ {
+  "id": "de519c1c8e73:12519",
+  "pid": "12519",
+  "name": "Luther Burden III",
+  "date": "2026-11-22T00:30:55+00:00",
+  "headline": "NFC Notes: Caleb Banks, Luther Burden, Bears, Lions, Vikings",
+  "link": "https://nfltraderumors.co/nfc-notes-caleb-banks-luther-burden-bears-lions-vikings/",
+  "source": "NFL Trade Rumors",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "QB calls WR 'invaluable' and a key explosive playmaker",
+  "method": "ai"
+ },
+ {
   "id": "634f2efbc20f:13414",
   "pid": "13414",
   "name": "Kaelon Black",
@@ -235,6 +305,20 @@
   "status": "Q",
   "weeksOut": null,
   "note": "Plantar fasciitis and thumb injury, limited effectiveness",
+  "method": "ai"
+ },
+ {
+  "id": "6dee4d5db65c:9486",
+  "pid": "9486",
+  "name": "Dontayvion Wicks",
+  "date": "2026-11-21T23:14:28+00:00",
+  "headline": "Eagles place Zack Baun, Dontayvion Wicks on IR in roster flurry",
+  "link": "https://sports.yahoo.com/articles/eagles-place-zack-baun-dontayvion-111708760.html",
+  "source": "Yahoo Sports",
+  "pct": -35,
+  "status": "IR",
+  "weeksOut": null,
+  "note": "Placed on injured reserve by the Eagles.",
   "method": "ai"
  },
  {
