@@ -126,6 +126,76 @@
   "method": "rules"
  },
  {
+  "id": "c0b2c9dd8c1b:5846",
+  "pid": "5846",
+  "name": "DK Metcalf",
+  "date": "2026-11-23T03:27:30+00:00",
+  "headline": "Aaron Rodgers calls DK Metcalf's ejection \"disappointing,\" won't comment on message to him",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-calls-dk-metcalfs-ejection-disappointing-wont-comment-on-message-to-him",
+  "source": "ProFootballTalk",
+  "pct": -25,
+  "status": null,
+  "weeksOut": null,
+  "note": "Ejected, expected to miss at least one game reduces value",
+  "method": "ai"
+ },
+ {
+  "id": "c0b2c9dd8c1b:6819",
+  "pid": "6819",
+  "name": "Michael Pittman Jr.",
+  "date": "2026-11-23T03:27:30+00:00",
+  "headline": "Aaron Rodgers calls DK Metcalf's ejection \"disappointing,\" won't comment on message to him",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-calls-dk-metcalfs-ejection-disappointing-wont-comment-on-message-to-him",
+  "source": "ProFootballTalk",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "More targets with Metcalf out",
+  "method": "ai"
+ },
+ {
+  "id": "c0b2c9dd8c1b:fp28896",
+  "pid": "fp28896",
+  "name": "Roman Wilson",
+  "date": "2026-11-23T03:27:30+00:00",
+  "headline": "Aaron Rodgers calls DK Metcalf's ejection \"disappointing,\" won't comment on message to him",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-calls-dk-metcalfs-ejection-disappointing-wont-comment-on-message-to-him",
+  "source": "ProFootballTalk",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "More targets with Metcalf out",
+  "method": "ai"
+ },
+ {
+  "id": "cb1781acd4f8:8183",
+  "pid": "8183",
+  "name": "Brock Purdy",
+  "date": "2026-11-23T03:01:01+00:00",
+  "headline": "Sunday Night Football: 49ers lead Vikings 28-10 at halftime",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-49ers-lead-vikings-28-10-at-halftime",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Three TD passes boost his upside",
+  "method": "ai"
+ },
+ {
+  "id": "cb1781acd4f8:4217",
+  "pid": "4217",
+  "name": "George Kittle",
+  "date": "2026-11-23T03:01:01+00:00",
+  "headline": "Sunday Night Football: 49ers lead Vikings 28-10 at halftime",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-49ers-lead-vikings-28-10-at-halftime",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Two TD receptions increase value",
+  "method": "ai"
+ },
+ {
   "id": "5ea1734fe425:5846",
   "pid": "5846",
   "name": "DK Metcalf",
@@ -137,6 +207,48 @@
   "status": "Q",
   "weeksOut": null,
   "note": "Ejected in Week 11, likely miss next game reducing value",
+  "method": "ai"
+ },
+ {
+  "id": "b5e56d72fd08:9487",
+  "pid": "9487",
+  "name": "Parker Washington",
+  "date": "2026-11-23T02:28:02+00:00",
+  "headline": "NFL says Parker Washington didn't control ball until he was out of bounds",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-says-parker-washington-didnt-control-ball-until-he-was-out-of-bounds",
+  "source": "ProFootballTalk",
+  "pct": -3,
+  "status": null,
+  "weeksOut": null,
+  "note": "Ball not controlled, negative impact",
+  "method": "ai"
+ },
+ {
+  "id": "5e63f9313b1b:4217",
+  "pid": "4217",
+  "name": "George Kittle",
+  "date": "2026-11-23T02:12:28+00:00",
+  "headline": "George Kittle's second TD gives 49ers 14-7 lead",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittles-second-td-gives-49ers-14-7-lead",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Another TD reception adds value",
+  "method": "ai"
+ },
+ {
+  "id": "f216f0fb740d:4199",
+  "pid": "4199",
+  "name": "Aaron Jones Sr.",
+  "date": "2026-11-23T02:00:58+00:00",
+  "headline": "Aaron Jones TD ties Vikings-49ers at 7-7 late in first quarter",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-jones-td-ties-vikings-49ers-at-7-7-late-in-first-quarter",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "TD scored raises his value",
   "method": "ai"
  },
  {
@@ -152,6 +264,20 @@
   "weeksOut": 1,
   "note": "Suspension",
   "method": "rules"
+ },
+ {
+  "id": "1f3033e2dbe9:9487",
+  "pid": "9487",
+  "name": "Parker Washington",
+  "date": "2026-11-23T01:25:38+00:00",
+  "headline": "Liam Coen: I was told ball switched hands on Parker Washington catch",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/liam-coen-i-was-told-ball-switched-hands-on-parker-washington-catch",
+  "source": "ProFootballTalk",
+  "pct": -3,
+  "status": null,
+  "weeksOut": null,
+  "note": "Potential TD nullified, further reduces value",
+  "method": "ai"
  },
  {
   "id": "e5b174b16bd6:5846",
@@ -210,6 +336,20 @@
   "method": "ai"
  },
  {
+  "id": "d15db8fb8b7e:13269",
+  "pid": "13269",
+  "name": "Fernando Mendoza",
+  "date": "2026-11-23T00:48:21+00:00",
+  "headline": "Broncos move to 8-2 with 38-24 victory over Raiders",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-move-to-8-2-with-38-24-victory-over-raiders",
+  "source": "ProFootballTalk",
+  "pct": -5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Pick\u2011six interception hurts his value",
+  "method": "ai"
+ },
+ {
   "id": "508988df419c:6797",
   "pid": "6797",
   "name": "Justin Herbert",
@@ -252,6 +392,20 @@
   "method": "ai"
  },
  {
+  "id": "02eeb604f927:9487",
+  "pid": "9487",
+  "name": "Parker Washington",
+  "date": "2026-11-23T00:14:42+00:00",
+  "headline": "Officials deny Jaguars TD on sensational catch by Parker Washington",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/officials-deny-jaguars-td-on-sensational-catch-by-parker-washington",
+  "source": "ProFootballTalk",
+  "pct": -3,
+  "status": null,
+  "weeksOut": null,
+  "note": "TD catch ruled incomplete, lowers value",
+  "method": "ai"
+ },
+ {
   "id": "b515317286c1:2216",
   "pid": "2216",
   "name": "Mike Evans",
@@ -264,6 +418,20 @@
   "weeksOut": 1,
   "note": "Ruled out",
   "method": "rules"
+ },
+ {
+  "id": "485443ab39b0:13269",
+  "pid": "13269",
+  "name": "Fernando Mendoza",
+  "date": "2026-11-22T23:41:10+00:00",
+  "headline": "Fernando Mendoza's second TD pass tied Raiders-Broncos at 17-17",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendozas-second-td-pass-tied-raiders-broncos-at-17-17",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Second TD pass adds to upside",
+  "method": "ai"
  },
  {
   "id": "4d5da0852e7f:13269",
@@ -291,6 +459,34 @@
   "status": null,
   "weeksOut": null,
   "note": "Caught 68\u2011yard TD, increased role in offense",
+  "method": "ai"
+ },
+ {
+  "id": "bfca957333a0:13269",
+  "pid": "13269",
+  "name": "Fernando Mendoza",
+  "date": "2026-11-22T22:44:26+00:00",
+  "headline": "Fernando Mendoza throws first touchdown pass, Raiders trail Broncos 17-10",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendoza-throws-first-touchdown-pass-raiders-trail-broncos-17-10",
+  "source": "ProFootballTalk",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "First career TD pass boosts his value",
+  "method": "ai"
+ },
+ {
+  "id": "fa87f697708f:2306",
+  "pid": "2306",
+  "name": "Jameis Winston",
+  "date": "2026-11-22T22:19:24+00:00",
+  "headline": "Officials give Jameis Winston a TD, replays appear to show he was down before scoring",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/officials-give-jameis-winston-a-td-replays-appear-to-show-he-was-down-before-scoring",
+  "source": "ProFootballTalk",
+  "pct": 3,
+  "status": null,
+  "weeksOut": null,
+  "note": "TD credited (though controversial) raises value",
   "method": "ai"
  },
  {
@@ -40961,48 +41157,6 @@
   "status": null,
   "weeksOut": null,
   "note": "More targets with Watson out",
-  "method": "ai"
- },
- {
-  "id": "8cd2f3acbb14:4943",
-  "pid": "4943",
-  "name": "Sam Darnold",
-  "date": "2026-11-02T09:25:00+00:00",
-  "headline": "Sam Darnold: Middling numbers in Week 8 loss",
-  "link": "https://www.rotowire.com//football/player/sam-darnold-12490",
-  "source": "RotoWire",
-  "pct": -5,
-  "status": null,
-  "weeksOut": null,
-  "note": "Middling performance lowers his projected value",
-  "method": "ai"
- },
- {
-  "id": "c0db19cf9fdd:9753",
-  "pid": "9753",
-  "name": "Zach Charbonnet",
-  "date": "2026-11-02T09:19:00+00:00",
-  "headline": "Zach Charbonnet: Nine touches in season debut",
-  "link": "https://www.rotowire.com//football/player/zach-charbonnet-16897",
-  "source": "RotoWire",
-  "pct": 5,
-  "status": null,
-  "weeksOut": null,
-  "note": "Season debut with 9 touches, modest upside",
-  "method": "ai"
- },
- {
-  "id": "426abec17523:13286",
-  "pid": "13286",
-  "name": "Jadarian Price",
-  "date": "2026-11-02T09:14:00+00:00",
-  "headline": "Jadarian Price: Gains 37 total yards in return",
-  "link": "https://www.rotowire.com//football/player/jadarian-price-19299",
-  "source": "RotoWire",
-  "pct": 5,
-  "status": null,
-  "weeksOut": null,
-  "note": "37 total yards, shows some involvement",
   "method": "ai"
  }
 ]
