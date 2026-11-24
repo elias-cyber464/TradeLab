@@ -28,6 +28,20 @@
   "method": "ai"
  },
  {
+  "id": "9c7e98bc226c:6803",
+  "pid": "6803",
+  "name": "Brandon Aiyuk",
+  "date": "2026-11-24T02:35:00+00:00",
+  "headline": "5 potential landing spots for Brandon Aiyuk after 49ers release",
+  "link": "https://sports.yahoo.com/articles/5-potential-landing-spots-brandon-173500686.html",
+  "source": "Yahoo Sports",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": null,
+  "note": "Released by 49ers, now a free agent",
+  "method": "ai"
+ },
+ {
   "id": "fcaee48baf8b:10235",
   "pid": "10235",
   "name": "Roschon Johnson",
@@ -42739,20 +42753,6 @@
   "status": null,
   "weeksOut": null,
   "note": "Backup RB gains workload with Love on IR",
-  "method": "ai"
- },
- {
-  "id": "43a3e41d91ea:12490",
-  "pid": "12490",
-  "name": "Bhayshul Tuten",
-  "date": "2026-11-03T10:17:00+00:00",
-  "headline": "Bhayshul Tuten: Not spotted at practice",
-  "link": "https://www.rotowire.com//football/player/bhayshul-tuten-18524",
-  "source": "RotoWire",
-  "pct": -10,
-  "status": "Q",
-  "weeksOut": null,
-  "note": "Ankle/foot issue, missed practice, likely limited",
   "method": "ai"
  }
 ]
