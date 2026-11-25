@@ -1,5 +1,19 @@
 [
  {
+  "id": "90606798e713:96",
+  "pid": "96",
+  "name": "Aaron Rodgers",
+  "date": "2026-11-25T08:16:32+00:00",
+  "headline": "Aaron Rodgers' benching marks new era for the Steelers in so many ways",
+  "link": "https://sports.yahoo.com/nfl/article/aaron-rodgers-benching-marks-new-era-for-the-steelers-in-so-many-ways-081632219.html",
+  "source": "Yahoo Sports",
+  "pct": -15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Lost role",
+  "method": "rules"
+ },
+ {
   "id": "ce924f4a2314:96",
   "pid": "96",
   "name": "Aaron Rodgers",
@@ -68,6 +82,20 @@
   "weeksOut": 1,
   "note": "Ruled out",
   "method": "rules"
+ },
+ {
+  "id": "8b25fd62f4bf:96",
+  "pid": "96",
+  "name": "Aaron Rodgers",
+  "date": "2026-11-25T04:27:45+00:00",
+  "headline": "Steelers bench Aaron Rodgers for Mason Rudolph",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-bench-aaron-rodgers-for-mason-rudolph",
+  "source": "ProFootballTalk",
+  "pct": -20,
+  "status": null,
+  "weeksOut": null,
+  "note": "Benched, loses starter role",
+  "method": "ai"
  },
  {
   "id": "07d3169766cd:96",
@@ -224,6 +252,34 @@
   "method": "ai"
  },
  {
+  "id": "74e0eb38cb21:96",
+  "pid": "96",
+  "name": "Aaron Rodgers",
+  "date": "2026-11-24T23:43:38+00:00",
+  "headline": "Steelers drop Aaron Rodgers, Mason Rudolph gets nod vs. Broncos",
+  "link": "https://sports.yahoo.com/nfl/articles/steelers-drop-aaron-rodgers-mason-234338674.html",
+  "source": "Yahoo Sports",
+  "pct": -20,
+  "status": null,
+  "weeksOut": null,
+  "note": "Benched, loses starter role",
+  "method": "ai"
+ },
+ {
+  "id": "c75fa5b51c7e:96",
+  "pid": "96",
+  "name": "Aaron Rodgers",
+  "date": "2026-11-24T23:43:38+00:00",
+  "headline": "Steelers drop Aaron Rodgers, Mason Rudolph gets nod vs. Broncos",
+  "link": "https://sports.yahoo.com/nfl/articles/steelers-drop-aaron-rodgers-mason-234338863.html",
+  "source": "Yahoo Sports",
+  "pct": -20,
+  "status": null,
+  "weeksOut": null,
+  "note": "Benched, loses starter role",
+  "method": "ai"
+ },
+ {
   "id": "aa5c11abaf3b:6803",
   "pid": "6803",
   "name": "Brandon Aiyuk",
@@ -308,6 +364,20 @@
   "method": "ai"
  },
  {
+  "id": "06c0f6cf2757:6803",
+  "pid": "6803",
+  "name": "Brandon Aiyuk",
+  "date": "2026-11-24T22:34:26+00:00",
+  "headline": "Brandon Aiyuk will visit Commanders",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-aiyuk-will-visit-commanders",
+  "source": "ProFootballTalk",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Visit to Commanders sparks trade interest",
+  "method": "ai"
+ },
+ {
   "id": "8826b4a9e3a6:6803",
   "pid": "6803",
   "name": "Brandon Aiyuk",
@@ -319,6 +389,20 @@
   "status": null,
   "weeksOut": null,
   "note": "Visit with Commanders after clearing waivers",
+  "method": "ai"
+ },
+ {
+  "id": "1559ab7c3a39:6803",
+  "pid": "6803",
+  "name": "Brandon Aiyuk",
+  "date": "2026-11-24T22:30:55+00:00",
+  "headline": "Commanders Hosting WR Brandon Aiyuk For Visit",
+  "link": "https://nfltraderumors.co/commanders-hosting-wr-brandon-aiyuk-for-visit/",
+  "source": "NFL Trade Rumors",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Hosted by Commanders, potential signing",
   "method": "ai"
  },
  {
