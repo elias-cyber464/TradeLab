@@ -1,5 +1,89 @@
 [
  {
+  "id": "33cf6997062d:96",
+  "pid": "96",
+  "name": "Aaron Rodgers",
+  "date": "2026-11-25T04:17:57+00:00",
+  "headline": "BREAKING: Steelers Benching Aaron Rodgers For Mason Rudolph",
+  "link": "https://nfltraderumors.co/breaking-steelers-benching-aaron-rodgers-for-mason-rudolph/",
+  "source": "NFL Trade Rumors",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": 1,
+  "note": "Benched for Mason Rudolph, out this week",
+  "method": "ai"
+ },
+ {
+  "id": "d26f36e8eda9:96",
+  "pid": "96",
+  "name": "Aaron Rodgers",
+  "date": "2026-11-25T04:15:17+00:00",
+  "headline": "Aaron Rodgers inactive vs. Broncos, Steelers will start Mason Rudolph at QB instead",
+  "link": "https://sports.yahoo.com/nfl/breaking-news/article/aaron-rodgers-inactive-vs-broncos-steelers-will-start-mason-rudolph-at-qb-instead-041517816.html",
+  "source": "Yahoo Sports",
+  "pct": -30,
+  "status": "OUT",
+  "weeksOut": 1,
+  "note": "Inactive vs Broncos, benching reduces value",
+  "method": "ai"
+ },
+ {
+  "id": "babb327a8e0a:11292",
+  "pid": "11292",
+  "name": "Tommy DeVito",
+  "date": "2026-11-25T03:41:19+00:00",
+  "headline": "Tommy DeVito embracing latest chance to be NFL starting QB",
+  "link": "https://sports.yahoo.com/nfl/articles/tommy-devito-embracing-latest-chance-034119481.html",
+  "source": "Yahoo Sports",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Embracing chance to start, increased upside",
+  "method": "ai"
+ },
+ {
+  "id": "a95ac9d388b3:9229",
+  "pid": "9229",
+  "name": "Anthony Richardson Sr.",
+  "date": "2026-11-25T03:19:56+00:00",
+  "headline": "Colts coaches weigh in on Anthony Richardson\u2019s abrupt return to the starting lineup",
+  "link": "https://sports.yahoo.com/nfl/articles/colts-coaches-weigh-anthony-richardson-031956872.html",
+  "source": "Yahoo Sports",
+  "pct": 20,
+  "status": null,
+  "weeksOut": null,
+  "note": "Reinserted into starting lineup",
+  "method": "ai"
+ },
+ {
+  "id": "94755eaab632:2216",
+  "pid": "2216",
+  "name": "Mike Evans",
+  "date": "2026-11-25T01:30:54+00:00",
+  "headline": "NFC Notes: Mike Evans, Puka Nacua, 49ers, Cardinals, Rams",
+  "link": "https://nfltraderumors.co/nfc-notes-mike-evans-puka-nacua-49ers-cardinals-rams/",
+  "source": "NFL Trade Rumors",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Returned from Achilles injury, back in lineup",
+  "method": "ai"
+ },
+ {
+  "id": "561dbcc20a24:13345",
+  "pid": "13345",
+  "name": "Jonah Coleman",
+  "date": "2026-11-25T01:00:25+00:00",
+  "headline": "AFC Notes: Jonah Coleman, Travis Kelce, Broncos, Chiefs, Raiders",
+  "link": "https://nfltraderumors.co/afc-notes-jonah-coleman-travis-kelce-broncos-chiefs-raiders/",
+  "source": "NFL Trade Rumors",
+  "pct": 15,
+  "status": null,
+  "weeksOut": null,
+  "note": "Breakout 111\u2011yard, 3\u2011TD game raises his redraft value",
+  "method": "ai"
+ },
+ {
   "id": "f432749495f6:7525",
   "pid": "7525",
   "name": "DeVonta Smith",
@@ -70,6 +154,20 @@
   "method": "ai"
  },
  {
+  "id": "54d87483a158:11566",
+  "pid": "11566",
+  "name": "Jayden Daniels",
+  "date": "2026-11-24T23:00:56+00:00",
+  "headline": "NFC Notes: Jayden Daniels, Quinnen Williams, Commanders, Cowboys, Eagles",
+  "link": "https://nfltraderumors.co/nfc-notes-jayden-daniels-quinnen-williams-commanders-cowboys-eagles/",
+  "source": "NFL Trade Rumors",
+  "pct": 5,
+  "status": null,
+  "weeksOut": null,
+  "note": "Strong impression on coach suggests higher role/value",
+  "method": "ai"
+ },
+ {
   "id": "a1f3943dcae8:10859",
   "pid": "10859",
   "name": "Sam LaPorta",
@@ -95,6 +193,20 @@
   "status": "OUT",
   "weeksOut": 1,
   "note": "Suspended one game",
+  "method": "ai"
+ },
+ {
+  "id": "c62c04be0c28:11566",
+  "pid": "11566",
+  "name": "Jayden Daniels",
+  "date": "2026-11-24T22:35:49+00:00",
+  "headline": "Yahoo Fantasy Football Expert League Recap: Jayden Daniels' MNF heroics lift Winks to thrilling Week 11 win",
+  "link": "https://sports.yahoo.com/fantasy/article/yahoo-fantasy-football-expert-league-recap-jayden-daniels-mnf-heroics-lift-winks-to-thrilling-week-11-win-223549769.html",
+  "source": "Yahoo Sports",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "MNF heroics boost perception",
   "method": "ai"
  },
  {
@@ -137,6 +249,20 @@
   "status": null,
   "weeksOut": null,
   "note": "upgraded to full participation at practice",
+  "method": "ai"
+ },
+ {
+  "id": "4ec5d14e3201:13349",
+  "pid": "13349",
+  "name": "Eli Stowers",
+  "date": "2026-11-24T22:18:21+00:00",
+  "headline": "Eagles snap counts: Eli Stowers doesn't play on offense vs. Steelers",
+  "link": "https://sports.yahoo.com/articles/eagles-snap-counts-eli-stowers-070000388.html",
+  "source": "Yahoo Sports",
+  "pct": -20,
+  "status": "OUT",
+  "weeksOut": 1,
+  "note": "Did not play on offense vs Steelers",
   "method": "ai"
  },
  {
@@ -950,6 +1076,20 @@
   "weeksOut": 0,
   "note": "Returning",
   "method": "rules"
+ },
+ {
+  "id": "b81aa0a3e655:8150",
+  "pid": "8150",
+  "name": "Kyren Williams",
+  "date": "2026-11-24T19:17:28+00:00",
+  "headline": "Kyren Williams off injury report, set to play Wednesday vs. Packers",
+  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyren-williams-off-injury-report-set-to-play-wednesday-vs-packers",
+  "source": "ProFootballTalk",
+  "pct": 10,
+  "status": null,
+  "weeksOut": null,
+  "note": "Cleared from injury report, will play",
+  "method": "ai"
  },
  {
   "id": "a556445b13a5:5870",
@@ -42823,62 +42963,6 @@
   "status": "H",
   "weeksOut": 0,
   "note": "Returning",
-  "method": "rules"
- },
- {
-  "id": "6804886d6194:11565",
-  "pid": "11565",
-  "name": "J.J. McCarthy",
-  "date": "2026-11-04T02:52:46+00:00",
-  "headline": "Vic Fangio: J.J. McCarthy was a \"steal\" for the Giants",
-  "link": "https://sports.yahoo.com/articles/vic-fangio-j-j-mccarthy-025246470.html",
-  "source": "Yahoo Sports",
-  "pct": 5,
-  "status": null,
-  "weeksOut": null,
-  "note": "Coach labels him a \"steal\", boosting outlook",
-  "method": "ai"
- },
- {
-  "id": "3202d84f81f4:11565",
-  "pid": "11565",
-  "name": "J.J. McCarthy",
-  "date": "2026-11-04T02:52:46+00:00",
-  "headline": "Vic Fangio: J.J. McCarthy was a \"steal\" for the Giants",
-  "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vic-fangio-j-j-mccarthy-was-a-steal-for-the-giants",
-  "source": "ProFootballTalk",
-  "pct": 5,
-  "status": null,
-  "weeksOut": null,
-  "note": "Giants consider him a steal, likely more snaps and targets",
-  "method": "ai"
- },
- {
-  "id": "92f9f731bb9b:1466",
-  "pid": "1466",
-  "name": "Travis Kelce",
-  "date": "2026-11-04T01:42:00+00:00",
-  "headline": "Travis Kelce: Limited practice Wednesday",
-  "link": "https://www.rotowire.com//football/player/travis-kelce-8783",
-  "source": "RotoWire",
-  "pct": 0,
-  "status": "Q",
-  "weeksOut": 0,
-  "note": "Questionable",
-  "method": "rules"
- },
- {
-  "id": "257cab73ad89:13281",
-  "pid": "13281",
-  "name": "Jordyn Tyson",
-  "date": "2026-11-04T01:41:00+00:00",
-  "headline": "Jordyn Tyson: Limited in return Wednesday",
-  "link": "https://www.rotowire.com//football/player/jordyn-tyson-19233",
-  "source": "RotoWire",
-  "pct": 0,
-  "status": "Q",
-  "weeksOut": 0,
-  "note": "Questionable",
   "method": "rules"
  }
 ]
